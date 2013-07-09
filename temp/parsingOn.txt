@@ -1,0 +1,1217 @@
+[{"guess": ["5/8[u]8/11", "14/5[u]3/1", "9/2[d]4/1", "19/4[u]6/1", "10/1[u]11/1"], "away": "Everton", "timer": "Fin", "score": "2-1", "time": "19.05. 16:00", "home": "Chelsea"}, {"guess": ["4/11[d]3/10", "15/4[u]5/1", "7/1[u]10/1"], "away": "Norwich", "timer": "Fin", "score": "2-3", "time": "19.05. 16:00", "home": "Manchester City"}, {"guess": ["14/5[u]11/2", "5/2[u]7/2", "10/11[d]6/11"], "away": "Arsenal", "timer": "Fin", "score": "0-1", "time": "19.05. 16:00", "home": "Newcastle"}, {"guess": ["5/6[d]7/10", "13/5[u]14/5", "16/5[u]19/4"], "away": "Stoke", "timer": "Fin", "score": "1-1", "time": "19.05. 16:00", "home": "Southampton"}, {"guess": ["11/10[d]2/3", "5/2[u]31/10", "23/10[u]9/2"], "away": "Fulham", "timer": "Fin", "score": "0-3", "time": "19.05. 16:00", "home": "Swansea"}, {"guess": ["1/2[d]1/4", "3/1[u]21/4", "6/1[u]14/1"], "away": "Sunderland", "timer": "Fin", "score": "1-0", "time": "19.05. 16:00", "home": "Tottenham"}, {"guess": ["10/3[d]3/1", "4/5[u]1/1"], "away": "Manchester Utd", "timer": "Fin", "score": "5-5", "time": "19.05. 16:00", "home": "West Brom"}, {"guess": ["11/4[u]16/5", "17/4[u]9/2"], "away": "Reading", "timer": "Fin", "score": "4-2", "time": "19.05. 16:00", "home": "West Ham"}, {"guess": ["10/11[u]12/11", "13/5[u]11/4"], "away": "Aston Villa", "timer": "Fin", "score": "2-2", "time": "19.05. 16:00", "home": "Wigan"}, {"guess": ["8/1[d]6/1", "7/2[u]15/4", "4/11[u]1/2"], "away": "Manchester City", "timer": "Fin", "score": "0-2", "time": "14.05. 20:00", "home": "Reading"}, {"guess": ["1/4[u]4/11", "5/1[d]19/4", "9/1[d]15/2"], "away": "Wigan", "timer": "Fin", "score": "4-1", "time": "14.05. 19:45", "home": "Arsenal"}, {"guess": ["3/10[u]4/11", "4/1[u]17/4"], "away": "Swansea", "timer": "Fin", "score": "2-1", "time": "12.05. 16:00", "home": "Manchester Utd"}, {"guess": ["4/9[u]6/11", "16/5[u]10/3", "13/2[d]6/1"], "away": "West Ham", "timer": "Fin", "score": "2-0", "time": "12.05. 15:00", "home": "Everton"}, {"guess": ["3/1[d]11/4", "12/5[u]13/5", "10/11[u]11/10"], "away": "Liverpool", "timer": "Fin", "score": "1-3", "time": "12.05. 15:00", "home": "Fulham"}, {"guess": ["11/10[u]16/11", "12/5[d]21/10"], "away": "West Brom", "timer": "Fin", "score": "4-0", "time": "12.05. 15:00", "home": "Norwich"}, {"guess": ["11/5[d]21/10", "9/4[u]5/2", "5/4[u]7/5"], "away": "Newcastle", "timer": "Fin", "score": "1-2", "time": "12.05. 15:00", "home": "QPR"}, {"guess": ["1/1[u]23/10", "12/5[d]21/10", "11/4[d]3/2"], "away": "Southampton", "timer": "Fin", "score": "1-1", "time": "12.05. 15:00", "home": "Sunderland"}, {"guess": ["3/1[u]15/4", "12/5[u]11/4", "10/11[d]5/6"], "away": "Tottenham", "timer": "Fin", "score": "1-2", "time": "12.05. 13:30", "home": "Stoke"}, {"guess": ["15/4[u]9/2", "13/5[u]16/5", "8/11[d]7/11"], "away": "Chelsea", "timer": "Fin", "score": "1-2", "time": "11.05. 12:45", "home": "Aston Villa"}, {"guess": ["13/5[u]29/10", "16/5[u]7/2"], "away": "Tottenham", "timer": "Fin", "score": "2-2", "time": "08.05. 19:45", "home": "Chelsea"}, {"guess": ["4/11[u]2/5", "7/2[u]4/1", "8/1[u]17/2"], "away": "West Brom", "timer": "Fin", "score": "1-0", "time": "07.05. 19:45", "home": "Manchester City"}, {"guess": ["12/11[d]4/5", "5/2[u]29/10", "12/5[u]15/4"], "away": "Swansea", "timer": "Fin", "score": "2-3", "time": "07.05. 19:45", "home": "Wigan"}, {"guess": ["12/11[u]11/8", "9/4[d]2/1"], "away": "Stoke", "timer": "Fin", "score": "1-1", "time": "06.05. 20:00", "home": "Sunderland"}, {"guess": ["1/1[u]7/5", "13/5[d]21/10"], "away": "Chelsea", "timer": "Fin", "score": "0-1", "time": "05.05. 16:00", "home": "Manchester Utd"}, {"guess": ["12/5[u]13/5", "11/4[u]3/1"], "away": "Everton", "timer": "Fin", "score": "0-0", "time": "05.05. 13:30", "home": "Liverpool"}, {"guess": ["9/2[u]17/2", "31/10[u]17/4", "4/7[d]4/11"], "away": "Arsenal", "timer": "Fin", "score": "0-1", "time": "04.05. 17:30", "home": "QPR"}, {"guess": ["5/8[u]7/10", "11/4[u]29/10"], "away": "Reading", "timer": "Fin", "score": "2-4", "time": "04.05. 15:00", "home": "Fulham"}, {"guess": ["5/4[u]8/5", "23/10[d]9/4", "11/5[d]2/1"], "away": "Aston Villa", "timer": "Fin", "score": "1-2", "time": "04.05. 15:00", "home": "Norwich"}, {"guess": ["10/3[u]4/1", "13/5[u]27/10"], "away": "Manchester City", "timer": "Fin", "score": "0-0", "time": "04.05. 15:00", "home": "Swansea"}, {"guess": ["2/3[d]6/11", "11/4[u]10/3", "4/1[u]6/1"], "away": "Southampton", "timer": "Fin", "score": "1-0", "time": "04.05. 15:00", "home": "Tottenham"}, {"guess": ["11/10[u]11/8", "12/5[u]5/2", "12/5[d]21/10"], "away": "Wigan", "timer": "Fin", "score": "2-3", "time": "04.05. 15:00", "home": "West Brom"}, {"guess": ["7/5[d]6/5", "23/10[u]5/2", "19/10[u]5/2"], "away": "Newcastle", "timer": "Fin", "score": "0-0", "time": "04.05. 15:00", "home": "West Ham"}, {"guess": ["1/1[u]5/4", "14/5[d]13/5"], "away": "Sunderland", "timer": "Fin", "score": "6-1", "time": "29.04. 20:00", "home": "Aston Villa"}, {"guess": ["7/5[d]13/10", "9/4[u]13/5", "19/10[u]11/5"], "away": "Manchester Utd", "timer": "Fin", "score": "1-1", "time": "28.04. 16:00", "home": "Arsenal"}, {"guess": ["1/3[u]2/5", "15/4[u]4/1", "17/2[d]8/1"], "away": "Swansea", "timer": "Fin", "score": "2-0", "time": "28.04. 15:00", "home": "Chelsea"}, {"guess": ["7/4[d]3/2", "23/10[u]13/5", "3/2[u]15/8"], "away": "QPR", "timer": "Fin", "score": "0-0", "time": "28.04. 13:30", "home": "Reading"}, {"guess": ["5/2[d]21/10", "12/11[u]7/5"], "away": "Liverpool", "timer": "Fin", "score": "0-6", "time": "27.04. 17:30", "home": "Newcastle"}, {"guess": ["14/5[u]7/2"], "away": "Fulham", "timer": "Fin", "score": "1-0", "time": "27.04. 15:00", "home": "Everton"}, {"guess": ["10/11[d]3/4", "5/2[u]29/10", "11/4[u]4/1"], "away": "West Brom", "timer": "Fin", "score": "0-3", "time": "27.04. 15:00", "home": "Southampton"}, {"guess": ["12/11[u]8/7", "23/10[d]11/5", "27/10[u]3/1"], "away": "Norwich", "timer": "Fin", "score": "1-0", "time": "27.04. 15:00", "home": "Stoke"}, {"guess": ["12/5[d]23/10", "11/10[u]13/10"], "away": "Tottenham", "timer": "Fin", "score": "2-2", "time": "27.04. 15:00", "home": "Wigan"}, {"guess": ["2/9[u]1/4", "5/1[u]11/2", "11/1[u]13/1"], "away": "West Ham", "timer": "Fin", "score": "2-1", "time": "27.04. 12:45", "home": "Manchester City"}, {"guess": ["2/9[u]1/4", "10/1[u]13/1"], "away": "Aston Villa", "timer": "Fin", "score": "3-0", "time": "22.04. 20:00", "home": "Manchester Utd"}, {"guess": ["6/5[d]8/7", "12/5[u]5/2", "11/5[u]13/5"], "away": "Chelsea", "timer": "Fin", "score": "2-2", "time": "21.04. 16:00", "home": "Liverpool"}, {"guess": ["7/4[u]9/5", "23/10[d]11/5", "3/2[u]9/5"], "away": "Manchester City", "timer": "Fin", "score": "3-1", "time": "21.04. 13:30", "home": "Tottenham"}, {"guess": ["14/5[u]11/2", "13/5[u]10/3", "10/11[d]4/7"], "away": "Arsenal", "timer": "Fin", "score": "0-1", "time": "20.04. 15:00", "home": "Fulham"}, {"guess": ["21/10[u]5/2"], "away": "Southampton", "timer": "Fin", "score": "0-0", "time": "20.04. 15:00", "home": "Swansea"}, {"guess": ["12/11[u]7/5", "5/2[d]21/10"], "away": "Newcastle", "timer": "Fin", "score": "1-1", "time": "20.04. 15:00", "home": "West Brom"}, {"guess": ["12/11[u]7/5", "12/5[u]5/2", "13/5[d]21/10"], "away": "Wigan", "timer": "Fin", "score": "2-0", "time": "20.04. 15:00", "home": "West Ham"}]
+
+########################################################################################################################
+
+/usr/bin/python2.7 /home/arash/projects/athys/scrap/tablegetter.py
+{'tag': 'html', 'data': '\n', 'attrs': [[('xmlns', 'http://www.w3.org/1999/xhtml'), ('xml:lang', 'en'), ('lang', 'en')], ('xmlns', 'http://www.w3.org/1999/xhtml'), ('xml:lang', 'en'), ('lang', 'en')]}
+{'tag': 'head', 'data': '\n    ', 'attrs': []}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('async', ''), ('src', u'http://content.livesportmedia.eu/delivery?zones=916,917,922,923&no_flash=1&callback=delivery&_=1369901705815')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('http-equiv', 'content-type'), ('content', 'text/html; charset=utf-8')]}
+{'tag': 'title', 'data': 'Latest Premier League Results, Standings - Football England \n    ', 'attrs': []}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('name', 'keywords'), ('content', '')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('name', 'description'), ('content', 'Results 24 service offers football results. Get live England football scores, live Premier League scores now! ')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('name', 'copyright'), ('content', 'Copyright (c) 2009-2013 LiveSport s.r.o.')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('name', 'robots'), ('content', 'NOODP,index,follow')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('property', 'og:image'), ('content', 'http://www.results24.co.uk/res/_ass/image/meta/default.jpg')]}
+{'tag': 'meta', 'data': '\n    ', 'attrs': [('name', 'google-site-verification'), ('content', '7QtTlgU5B4qraA-dhxDJfFFsBLnFRRxVXMBnEY_VpLw')]}
+{'tag': 'link', 'data': '\n    ', 'attrs': [('type', 'text/css'), ('rel', 'stylesheet'), ('href', '/x/css/page_105_605000000.css'), ('media', 'screen')]}
+{'tag': 'link', 'data': '\n    ', 'attrs': [('rel', 'shortcut icon'), ('href', '/favicon.ico')]}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('type', 'text/javascript'), ('async', ''), ('src', 'http://www.google-analytics.com/ga.js')]}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('type', 'text/javascript'), ('src', 'http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js')]}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('type', 'text/javascript'), ('src', '/x/js/jsxcompressor.js')]}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('type', 'text/javascript'), ('src', '/x/js/framework14.js')]}
+{'tag': 'script', 'data': '\n    ', 'attrs': [('type', 'text/javascript'), ('src', '/x/js/core_105_605000000.js')]}
+{'tag': 'script', 'data': '\n        // <![CDATA[\n        init_layout();\n        try {\n            refresh_alert_check_on();\n        } catch (err) {\n        }\n        // ]]>\n    \n    ', 'attrs': [('type', 'text/javascript')]}
+{'tag': 'iframe', 'data': '\n\n', 'attrs': [('src', 'http://d.results24.co.uk/x/feed/proxy')]}
+{'tag': 'body', 'data': '\n', 'attrs': [('onload', 'rankingsPush();'), ('class', 'webkit webkit537 os-linux x86_64')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('class', 'container sport'), ('id', 'top')]}
+{'tag': 'div', 'data': '\n\n        ', 'attrs': [('class', 'header'), ('class', 'header-logo r-image'), ('href', '/'), ('id', 'logo')]}
+{'tag': 'div', 'data': 'Global Live Scores in One Place\n    \n\n    ', 'attrs': [('id', 'info')]}
+{'tag': 'div', 'data': '\n\n        ', 'attrs': [('class', 'main')]}
+{'tag': 'div', 'data': '\n\n            ', 'attrs': [('class', 'col-right right')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'content')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('id', 'box-over-content-a'), ('style', 'display: none;')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('id', 'box-over-content-b'), ('style', 'display: none;')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('id', 'box-over-content-c'), ('style', 'display: none;')]}
+{'tag': 'h1', 'data': 'Premier League Results, Standings, Odds\n                ', 'attrs': []}
+{'tag': 'script', 'data': "\n                    //<![CDATA[\n                    var sport_url = '/football/';\n                    document.domain = 'results24.co.uk';\n                    document.ifa = function () {\n                        return true\n                    }\n                    //]]>\n                \n\n                ", 'attrs': [('type', 'text/javascript')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('id', 'fsbody'), ('class', 'other')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('id', 'fscountry')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('id', 'fsi')]}
+{'tag': 'div', 'data': '\n                            ', 'attrs': [('id', 'fscon')]}
+{'tag': 'div', 'data': 'Loading ...\n                            \n                            ', 'attrs': [('id', 'preload'), ('class', 'preload pvisit'), ('style', 'display: none;')]}
+{'tag': 'ul', 'data': '\n                                ', 'attrs': [('class', 'ifmenu live-menu')]}
+{'tag': 'li', 'data': 'Latest\n                                    Scores\n                                ', 'attrs': [('class', 'selected'), ('href', '#'), ('onclick', 'pgenerate(true, 6); rLivereturn false')]}
+{'tag': 'li', 'data': 'Scheduled\n                                \n                                ', 'attrs': [('class', 'li2'), ('href', '#'), ('onclick', 'pgenerate(true, 7); return false')]}
+{'tag': 'li', 'data': 'Fractional\n                                    odds', 'attrs': [('id', 'ifmenu-odds-format'), ('class', 'h2'), ('href', '#'), ('onclick', "display_hide_element('ifmenu-odds-format-content'); return false")]}
+{'tag': 'ul', 'data': '\n                                    ', 'attrs': [('id', 'ifmenu-odds-format-content'), ('style', 'display: none;')]}
+{'tag': 'li', 'data': 'Decimal odds\n                                \n                            \n                            ', 'attrs': [('class', 'even'), ('href', '#'), ('onclick', "clientStorage.store('fs_of', 'eu', 365*86400, 'self', '/'); default_odds_format = 'eu'; reload_odds(); return false"), ('title', 'EU Odds (1.50)')]}
+{'tag': 'div', 'data': '\n                                ', 'attrs': [('id', 'fs'), ('style', 'opacity: 1;')]}
+{'tag': 'div', 'data': '\n                                    ', 'attrs': [('class', 'table-main')]}
+{'tag': 'table', 'data': '\n                                        ', 'attrs': [('class', 'soccer')]}
+{'tag': 'colgroup', 'data': '\n                                            ', 'attrs': []}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '82')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '48')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '157')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '157')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '47')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '23')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '52')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '52')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '52')]}
+{'tag': 'col', 'data': '\n                                            ', 'attrs': [('width', '49')]}
+{'tag': 'col', 'data': '\n                                        \n                                        ', 'attrs': [('width', '23')]}
+{'tag': 'thead', 'data': '\n                                        ', 'attrs': []}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'l_1_2wDJRkib'), ('class', 'league first primary-top')]}
+{'tag': 'td', 'data': '\n                                                ', 'attrs': [('class', 'col-first'), ('colspan', '6')]}
+{'tag': 'div', 'data': 'ENGLAND: Premier League\n                                                \n                                            \n                                            ', 'attrs': [('class', 'dicons'), ('class', 'country right'), ('class', 'flag fl_198 right'), ('class', 'name')]}
+{'tag': 'td', 'data': 'bet365 odds\n                                            ', 'attrs': [('class', 'col-odds'), ('colspan', '3')]}
+{'tag': 'td', 'data': '\n                                                ', 'attrs': [('colspan', '2')]}
+{'tag': 'div', 'data': '\n                                            \n                                        \n                                        \n                                        ', 'attrs': [('class', 'dicons'), ('class', 'icons stats-container fsh'), ('class', 'stats'), ('title', 'Standings')]}
+{'tag': 'tbody', 'data': '\n                                        ', 'attrs': []}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_CSiF8w91'), ('class', 'tr-first')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Chelsea\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Everton\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '8/11\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '5/8[u]8/11')]}
+{'tag': 'td', 'data': '3/1\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '14/5[u]3/1')]}
+{'tag': 'td', 'data': '4/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '9/2[d]4/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '<8/11td class="time">19.05. 16:00\n                                            ', 'attrs': [('id', 'g_1_jJjJ7cO7'), ('class', ' even')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Liverpool\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'QPR\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/4\n                                            ', 'attrs': [('class', 'kx o_1 win')]}
+{'tag': 'td', 'data': '6/1\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '19/4[u]6/1')]}
+{'tag': 'td', 'data': '11/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '10/1[u]11/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_Szz2Wt18')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Norwich\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '3/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '4/11[d]3/10')]}
+{'tag': 'td', 'data': '5/1\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '15/4[u]5/1')]}
+{'tag': 'td', 'data': '10/1\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '7/1[u]10/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_6RY5V0GE'), ('class', ' even')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Newcastle\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Arsenal\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '11/2\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '14/5[u]11/2')]}
+{'tag': 'td', 'data': '7/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '5/2[u]7/2')]}
+{'tag': 'td', 'data': '6/11\n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '10/11[d]6/11')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_bNdZDYps')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Southampton\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Stoke\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '5/6[d]7/10')]}
+{'tag': 'td', 'data': '14/5\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '13/5[u]14/5')]}
+{'tag': 'td', 'data': '19/4\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '16/5[u]19/4')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_4tyIOkaa'), ('class', ' even')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Fulham\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '2/3\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '11/10[d]2/3')]}
+{'tag': 'td', 'data': '31/10\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '5/2[u]31/10')]}
+{'tag': 'td', 'data': '9/2\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '23/10[u]9/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_Ac0wDh0m')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Sunderland', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/4\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'down'), ('alt', '1/2[d]1/4')]}
+{'tag': 'td', 'data': '21/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '3/1[u]21/4')]}
+{'tag': 'td', 'data': '14/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '6/1[u]14/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_hMkrCCFg'), ('class', ' even')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Brom\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Manchester Utd\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '5-5\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '3/1\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '10/3[d]3/1')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_0 win')]}
+{'tag': 'td', 'data': '1/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '4/5[u]1/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_WClnBWUa')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Ham\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Reading\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '4-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/11\n                                            ', 'attrs': [('class', 'kx o_1 win')]}
+{'tag': 'td', 'data': '16/5\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '11/4[u]16/5')]}
+{'tag': 'td', 'data': '9/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '17/4[u]9/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_0ngjAjp6'), ('class', ' even')]}
+{'tag': 'td', 'data': '19.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Aston Villa\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '12/11\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '10/11[u]12/11')]}
+{'tag': 'td', 'data': '11/4\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '13/5[u]11/4')]}
+{'tag': 'td', 'data': '11/4\n                                            ', 'attrs': [('class', 'kx o_2 last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_Mwa2BuPr')]}
+{'tag': 'td', 'data': '14.05. 20:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Reading\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '6/1\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '8/1[d]6/1')]}
+{'tag': 'td', 'data': '15/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '7/2[u]15/4')]}
+{'tag': 'td', 'data': '1/2\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '4/11[u]1/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_xYHxeKv2'), ('class', ' even')]}
+{'tag': 'td', 'data': '14.05. 19:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Arsenal\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '4-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '4/11\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '1/4[u]4/11')]}
+{'tag': 'td', 'data': '19/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'down'), ('alt', '5/1[d]19/4')]}
+{'tag': 'td', 'data': '15/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '9/1[d]15/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_AJyEPVqg')]}
+{'tag': 'td', 'data': '12.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester Utd\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '4/11\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '3/10[u]4/11')]}
+{'tag': 'td', 'data': '17/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '4/1[u]17/4')]}
+{'tag': 'td', 'data': '9/1\n                                            ', 'attrs': [('class', 'kx o_2 last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_4vAOINW8'), ('class', ' even')]}
+{'tag': 'td', 'data': '12.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Everton\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'West Ham\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '6/11\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '4/9[u]6/11')]}
+{'tag': 'td', 'data': '10/3\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '16/5[u]10/3')]}
+{'tag': 'td', 'data': '6/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '13/2[d]6/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_n3aTHsnF')]}
+{'tag': 'td', 'data': '12.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Fulham\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Liverpool\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '11/4\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '3/1[d]11/4')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '12/5[u]13/5')]}
+{'tag': 'td', 'data': '11/10\n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '10/11[u]11/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_QgbXG11L'), ('class', ' even')]}
+{'tag': 'td', 'data': '12.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Norwich\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'West Brom\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '4-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '16/11\n                                            \n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '11/10[u]16/11')]}
+{'tag': 'td', 'data': '12/5\n                                            ', 'attrs': [('class', 'kx o_0')]}
+{'tag': 'td', 'data': '21/10\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '12/5[d]21/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_KUCzGLGR')]}
+{'tag': 'td', 'data': '12.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'QPR\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Newcastle', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '1-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '21/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '11/5[d]21/10')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '9/4[u]5/2')]}
+{'tag': 'td', 'data': '7/5\n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '5/4[u]7/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_I5hB9Jge'), ('class', ' even')]}
+{'tag': 'td', 'data': '12.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Sunderland\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Southampton\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '23/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '1/1[u]23/10')]}
+{'tag': 'td', 'data': '21/10\n                                            \n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'down'), ('alt', '12/5[d]21/10')]}
+{'tag': 'td', 'data': '3/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '11/4[d]3/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_42l7Aavk')]}
+{'tag': 'td', 'data': '12.05. 13:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Stoke', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            \n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '15/4\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '3/1[u]15/4')]}
+{'tag': 'td', 'data': '11/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '12/5[u]11/4')]}
+{'tag': 'td', 'data': '5/6\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '10/11[d]5/6')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_jy6KJ3H2'), ('class', ' even')]}
+{'tag': 'td', 'data': '11.05. 12:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Aston Villa', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Chelsea', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '1-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '9/2\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '15/4[u]9/2')]}
+{'tag': 'td', 'data': '16/5\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '13/5[u]16/5')]}
+{'tag': 'td', 'data': '7/11\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '8/11[d]7/11')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_lAYdweDa')]}
+{'tag': 'td', 'data': '08.05. 19:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Chelsea\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '5/6\n                                            ', 'attrs': [('class', 'kx o_1')]}
+{'tag': 'td', 'data': '29/10\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '13/5[u]29/10')]}
+{'tag': 'td', 'data': '7/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '16/5[u]7/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_APM5yZsC'), ('class', ' even')]}
+{'tag': 'td', 'data': '07.05. 19:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'West Brom\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '2/5\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '4/11[u]2/5')]}
+{'tag': 'td', 'data': '4/1\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '7/2[u]4/1')]}
+{'tag': 'td', 'data': '17/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '8/1[u]17/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_z5o37lUO')]}
+{'tag': 'td', 'data': '07.05. 19:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '4/5\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '12/11[d]4/5')]}
+{'tag': 'td', 'data': '29/10\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '5/2[u]29/10')]}
+{'tag': 'td', 'data': '15/4\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '12/5[u]15/4')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_pzwb22nS'), ('class', ' even')]}
+{'tag': 'td', 'data': '06.05. 20:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Sunderland', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Stoke\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '11/8\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '12/11[u]11/8')]}
+{'tag': 'td', 'data': '2/1\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'down'), ('alt', '9/4[d]2/1')]}
+{'tag': 'td', 'data': '11/4\n                                            ', 'attrs': [('class', 'kx o_2 last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_Cpoo5429')]}
+{'tag': 'td', 'data': '05.05. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester Utd', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Chelsea\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/5\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '1/1[u]7/5')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0')]}
+{'tag': 'td', 'data': '21/10\n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '13/5[d]21/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_rBts6pm3'), ('class', ' even')]}
+{'tag': 'td', 'data': '05.05. 13:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Liverpool\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Everton\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/1\n                                            ', 'attrs': [('class', 'kx o_1')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '12/5[u]13/5')]}
+{'tag': 'td', 'data': '3/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '11/4[u]3/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_YaZg3rXL')]}
+{'tag': 'td', 'data': '04.05. 17:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'QPR\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Arsenal\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '17/2\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '9/2[u]17/2')]}
+{'tag': 'td', 'data': '17/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '31/10[u]17/4')]}
+{'tag': 'td', 'data': '4/11\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '4/7[d]4/11')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_4Ksw7QXd'), ('class', ' even')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Fulham\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Reading\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-4\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '5/8[u]7/10')]}
+{'tag': 'td', 'data': '29/10\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '11/4[u]29/10')]}
+{'tag': 'td', 'data': '9/2\n                                            ', 'attrs': [('class', 'kx o_2 win last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_jypk4OHF')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Norwich\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Aston Villa\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '8/5\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '5/4[u]8/5')]}
+{'tag': 'td', 'data': '9/4\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'down'), ('alt', '23/10[d]9/4')]}
+{'tag': 'td', 'data': '2/1\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '11/5[d]2/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_WSxAQBUn'), ('class', ' even')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '4/1\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '10/3[u]4/1')]}
+{'tag': 'td', 'data': '27/10\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '13/5[u]27/10')]}
+{'tag': 'td', 'data': '4/5\n                                            ', 'attrs': [('class', 'kx o_2 last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_2FPPcMfq')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Southampton\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '6/11\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'down'), ('alt', '2/3[d]6/11')]}
+{'tag': 'td', 'data': '10/3\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '11/4[u]10/3')]}
+{'tag': 'td', 'data': '6/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '4/1[u]6/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_t6OTdtAk'), ('class', ' even')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Brom\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '11/8\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '11/10[u]11/8')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '12/5[u]5/2')]}
+{'tag': 'td', 'data': '21/10\n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '12/5[d]21/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_bsJYe0Pe')]}
+{'tag': 'td', 'data': '04.05. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Ham\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Newcastle\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '6/5\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '7/5[d]6/5')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '23/10[u]5/2')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '19/10[u]5/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_QDfBhRI3'), ('class', ' even')]}
+{'tag': 'td', 'data': '29.04. 20:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Aston Villa\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Sunderland', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '6-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '5/4\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '1/1[u]5/4')]}
+{'tag': 'td', 'data': '23/10\n                                            ', 'attrs': [('class', 'kx o_0')]}
+{'tag': 'td', 'data': '13/5\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '14/5[d]13/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_rk56g73c')]}
+{'tag': 'td', 'data': '28.04. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Arsenal\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Manchester Utd\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '13/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '7/5[d]13/10')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '9/4[u]13/5')]}
+{'tag': 'td', 'data': '11/5\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '19/10[u]11/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_jHLCRiFt'), ('class', ' even')]}
+{'tag': 'td', 'data': '28.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Chelsea\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '2/5\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '1/3[u]2/5')]}
+{'tag': 'td', 'data': '4/1\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '15/4[u]4/1')]}
+{'tag': 'td', 'data': '8/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '17/2[d]8/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_htEKlqIS')]}
+{'tag': 'td', 'data': '28.04. 13:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Reading\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'QPR\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '3/2\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '7/4[d]3/2')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '23/10[u]13/5')]}
+{'tag': 'td', 'data': '15/8\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '3/2[u]15/8')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_CUdNkP2M'), ('class', ' even')]}
+{'tag': 'td', 'data': '27.04. 17:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Newcastle', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Liverpool\n                                            ', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-6\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '21/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '5/2[d]21/10')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0')]}
+{'tag': 'td', 'data': '7/5\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '12/11[u]7/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_vHbFioY9')]}
+{'tag': 'td', 'data': '27.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Everton\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Fulham\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/2\n                                            ', 'attrs': [('class', 'kx o_1 win')]}
+{'tag': 'td', 'data': '7/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '14/5[u]7/2')]}
+{'tag': 'td', 'data': '13/2\n                                            ', 'attrs': [('class', 'kx o_2 last')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_fk0np3Qq'), ('class', ' even')]}
+{'tag': 'td', 'data': '27.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Southampton', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard2')]}
+{'tag': 'td', 'data': 'West Brom', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '0-3\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '3/4\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '10/11[d]3/4')]}
+{'tag': 'td', 'data': '29/10\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '5/2[u]29/10')]}
+{'tag': 'td', 'data': '4/1\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'up'), ('alt', '11/4[u]4/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_lCajqNuj')]}
+{'tag': 'td', 'data': '27.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Stoke\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Norwich\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '8/7\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '12/11[u]8/7')]}
+{'tag': 'td', 'data': '11/5\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'down'), ('alt', '23/10[d]11/5')]}
+{'tag': 'td', 'data': '3/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '27/10[u]3/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_2F3frsed'), ('class', ' even')]}
+{'tag': 'td', 'data': '27.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '23/10\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '12/5[d]23/10')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0 win')]}
+{'tag': 'td', 'data': '13/10\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '11/10[u]13/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_YwbJj5mG')]}
+{'tag': 'td', 'data': '27.04. 12:45\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'West Ham\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/4\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '2/9[u]1/4')]}
+{'tag': 'td', 'data': '11/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '5/1[u]11/2')]}
+{'tag': 'td', 'data': '13/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '11/1[u]13/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_0CKxvS3A'), ('class', ' even')]}
+{'tag': 'td', 'data': '22.04. 20:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Manchester Utd\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Aston Villa\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '3-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '1/4\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '2/9[u]1/4')]}
+{'tag': 'td', 'data': '11/2\n                                            ', 'attrs': [('class', 'kx o_0')]}
+{'tag': 'td', 'data': '13/1\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '10/1[u]13/1')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_ryQXv8l4')]}
+{'tag': 'td', 'data': '21.04. 16:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Liverpool\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Chelsea\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-2\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '8/7\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'down'), ('alt', '6/5[d]8/7')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0 win'), ('class', 'up'), ('alt', '12/5[u]5/2')]}
+{'tag': 'td', 'data': '13/5\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '11/5[u]13/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_xhEGWqdp'), ('class', ' even')]}
+{'tag': 'td', 'data': '21.04. 13:30\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Tottenham\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Manchester City\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '3-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '9/5\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '7/4[u]9/5')]}
+{'tag': 'td', 'data': '11/5\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'down'), ('alt', '23/10[d]11/5')]}
+{'tag': 'td', 'data': '9/5\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '3/2[u]9/5')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_4pRTulZc')]}
+{'tag': 'td', 'data': '20.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Fulham', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            \n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': 'Arsenal', 'attrs': [('class', 'team-away bold'), ('class', 'padl')]}
+{'tag': 'span', 'data': '\n                                            ', 'attrs': [('class', 'racard racard1')]}
+{'tag': 'td', 'data': '0-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '11/2\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '14/5[u]11/2')]}
+{'tag': 'td', 'data': '10/3\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '13/5[u]10/3')]}
+{'tag': 'td', 'data': '4/7\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 win last'), ('class', 'down'), ('alt', '10/11[d]4/7')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_l8ZpWX6P'), ('class', ' even')]}
+{'tag': 'td', 'data': '20.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'Swansea\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Southampton\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '0-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '5/4\n                                            ', 'attrs': [('class', 'kx o_1')]}
+{'tag': 'td', 'data': '12/5\n                                            ', 'attrs': [('class', 'kx o_0 win')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'up'), ('alt', '21/10[u]5/2')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_GrDKV3Bj')]}
+{'tag': 'td', 'data': '20.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Brom\n                                            ', 'attrs': [('class', 'team-home'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Newcastle\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '1-1\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/5\n                                            ', 'attrs': [('class', 'kx o_1'), ('class', 'up'), ('alt', '12/11[u]7/5')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0 win')]}
+{'tag': 'td', 'data': '21/10\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '5/2[d]21/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        ', 'attrs': [('class', 'icons')]}
+{'tag': 'tr', 'data': '\n                                            ', 'attrs': [('id', 'g_1_4b62fmli'), ('class', ' even')]}
+{'tag': 'td', 'data': '20.04. 15:00\n                                            ', 'attrs': [('class', 'time')]}
+{'tag': 'td', 'data': 'Fin\n                                            ', 'attrs': [('class', 'timer')]}
+{'tag': 'td', 'data': 'West Ham\n                                            ', 'attrs': [('class', 'team-home bold'), ('class', 'padl')]}
+{'tag': 'td', 'data': 'Wigan\n                                            ', 'attrs': [('class', 'team-away'), ('class', 'padl')]}
+{'tag': 'td', 'data': '2-0\n                                            ', 'attrs': [('class', 'score bold')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'icons')]}
+{'tag': 'td', 'data': '7/5\n                                            ', 'attrs': [('class', 'kx o_1 win'), ('class', 'up'), ('alt', '12/11[u]7/5')]}
+{'tag': 'td', 'data': '5/2\n                                            ', 'attrs': [('class', 'kx o_0'), ('class', 'up'), ('alt', '12/5[u]5/2')]}
+{'tag': 'td', 'data': '21/10\n                                            \n                                            ', 'attrs': [('class', 'kx o_2 last'), ('class', 'down'), ('alt', '13/5[d]21/10')]}
+{'tag': 'td', 'data': '\n                                            ', 'attrs': [('class', 'comparison'), ('class', 'icons'), ('class', 'comparison icon0')]}
+{'tag': 'td', 'data': '\n                                        \n                                        \n                                    \n                                    ', 'attrs': [('class', 'icons')]}
+{'tag': 'div', 'data': '\n                                    ', 'attrs': [('class', 'table-line-bottom')]}
+{'tag': 'div', 'data': '\n                                        ', 'attrs': [('class', 'copyright')]}
+{'tag': 'div', 'data': '\n                                        \n                                        Live scores powered by ', 'attrs': [('id', 'sync-indicator'), ('ondblclick', 'sync_change()'), ('class', 'nosync'), ('title', 'Sync Offline')]}
+{'tag': 'a', 'data': 'Results24.co.uk\n                                    \n                                \n                            \n                        \n                    \n                    ', 'attrs': [('href', 'http://www.results24.co.uk/'), ('title', 'Results24.co.uk'), ('target', '_blank')]}
+{'tag': 'script', 'data': '\n                        //<![CDATA[\n                        $(function () {\n                            document.domain = \'results24.co.uk\';\n\n                            custom_enable = true;\n                            sentences = [];\n                            sentences_parts = [];\n                            hover_color = null;\n                            iframe_external = false;\n                            default_tz = 1;\n                            matches = null;\n                            mid_s = 1;\n                            mpe_alias = \'p3:100, p4:100, p5:100, p6:100, p7:50, p8:50\';\n                            mpe_debug = false;\n                            mpe_delivery = \'p\';\n                            mpr = \'17\';\n                            odds_enable = false;\n                            odds_1xx2 = false;\n                            mixed_feed = false;\n                            project_id = 105;\n                            project_sub_dir_code = false;\n                            check_lang_box_geo_ip = [];\n                            sport_sort = {"s1": 0, "s2": 1, "s3": 2, "s7": 3, "s12": 4, "s4": 5, "s6": 6, "s5": 7, "s18": 8, "s21": 9, "s10": 10, "s26": 11, "s17": 12, "s16": 13, "s13": 14, "s14": 15, "s24": 16, "s9": 17, "s11": 18, "s28": 19, "s29": 20, "s19": 21, "s8": 22, "s15": 23, "s25": 24, "s22": 25};\n                            prev_category = null;\n                            prev_date = null;\n                            push_fail_logging = false;\n                            refresh_serial = 0;\n                            service_status = \'1\';\n                            sport = \'soccer\';\n                            stats_enable = true;\n                            tudate = 1369872000;\n                            cjs.cfg.topLeaguesFirst = true;\n                            cjs.cfg.mygames_past_days = 1;\n                            cjs.cfg.mygames_future_days = 7;\n                            cjs.cfg.fs_stats_enable = true;\n                            cjs.cfg.fs_stats_url_mygames = \'http://remote-stats.flashscore.com/mg\';\n                            cjs.cfg.fs_stats_url_inscore = \'http://remote-stats.flashscore.com/in\';\n                            odds_bonus_texts = [];\n                            country_id = 198;\n                            tournament = \'110\';\n                            try {\n                                matches = /^([^#]+)#(.*)\\breload:([0-9]+)\\-([0-9])(.*)$/.exec(parent.location.href);\n                            } catch (e) {\n                            }\n\n                            if (matches) {\n                                prev_date = matches[3];\n                                prev_category = matches[4];\n                                // cut out reload message from url bookmark\n                                parent.location.href = matches[1] + "#" +\n                                        (matches[2].substr(matches[2].length - 1) == ";" ? matches[2].substr(0, matches[2].length - 1) : matches[2]) +\n                                        ((matches[5].substr(0, 1) == ";" && !matches[2].length) ? matches[5].substr(1) : matches[5]);\n                            }\n\n                            init(\'soccer\', 198, 110, true);\n\n                        });\n                        //]]>\n                    \n                \n\n                ', 'attrs': [('type', 'text/javascript')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'spacer10')]}
+{'tag': 'hr', 'data': '\n            \n\n        \n\n        ', 'attrs': [('class', 'no-display')]}
+{'tag': 'div', 'data': '\n\n            ', 'attrs': [('class', 'left')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'England\n                \n                ', 'attrs': [('class', 'label'), ('class', 'flag fl_198')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': [('id', 'mt')]}
+{'tag': 'li', 'data': 'Premier\n                        League', 'attrs': [('class', 'active active-tournament'), ('class', 'active-top'), ('class', 'flagless'), ('href', '/football/england/premier-league/')]}
+{'tag': 'span', 'data': '\n                    ', 'attrs': [('class', 'active-bottom')]}
+{'tag': 'li', 'data': 'Championship\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/championship/')]}
+{'tag': 'li', 'data': 'League One\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/league-one/')]}
+{'tag': 'li', 'data': 'League Two\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/league-two/')]}
+{'tag': 'li', 'data': 'Blue Square\n                        Premier\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/blue-square-premier/')]}
+{'tag': 'li', 'data': 'Blue Square North\n                    \n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/blue-square-north/')]}
+{'tag': 'li', 'data': 'Blue Square South\n                    \n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/blue-square-south/')]}
+{'tag': 'li', 'data': 'Southern Premier\n                        League\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/southern-premier-league/')]}
+{'tag': 'li', 'data': 'Northern Premier\n                        League\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/northern-premier-league/')]}
+{'tag': 'li', 'data': 'Isthmian Premier\n                        League\n                    ', 'attrs': [('class', ''), ('class', 'flagless'), ('href', '/football/england/isthmian-premier-league/')]}
+{'tag': 'li', 'data': 'More (7)', 'attrs': [('class', 'show-more'), ('href', '#'), ('onclick', 'show_more_templates(); return false;')]}
+{'tag': 'span', 'data': '\n                    ', 'attrs': [('class', 'more-arrow')]}
+{'tag': 'li', 'data': 'Premier\n                        League U21\n                    ', 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/premier-league-u21/')]}
+{'tag': 'li', 'data': 'FA Cup\n                    ', 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/fa-cup/')]}
+{'tag': 'li', 'data': 'Capital\n                        One Cup\n                    ', 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/capital-one-cup/')]}
+{'tag': 'li', 'data': 'FA\n                        Community Shield\n                    ', 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/fa-community-shield/')]}
+{'tag': 'li', 'data': 'FA Trophy\n                    \n                    ', 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/fa-trophy/')]}
+{'tag': 'li', 'data': "Johnstone's\n                        Paint Trophy\n                    ", 'attrs': [('class', 'hidden-templates'), ('class', 'flagless'), ('href', '/football/england/johnstone-s-paint-trophy/')]}
+{'tag': 'li', 'data': 'Premier\n                        League U18\n                \n                ', 'attrs': [('class', 'last hidden-templates'), ('class', 'flagless'), ('href', '/football/england/premier-league-u18/')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'adsenvelope adstextpad banx-left_menu_1'), ('id', 'lsadvert-zid-916'), ('style', 'width:120px !important;')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('style', 'height:60px !important')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('class', 'adscontent'), ('id', 'lsadvert-left_menu_1')]}
+{'tag': 'iframe', 'data': '\n                    \n                    ', 'attrs': [('id', 'lsadvert-zid-916-iframe'), ('name', 'banx-left_menu_1'), ('frameborder', '0'), ('scrolling', 'no'), ('style', 'width:120px; height:60px')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('class', 'adsgraphhori')]}
+{'tag': 'div', 'data': '\n                    \n                \n            \n            ', 'attrs': [('class', 'adsghori ath-en')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head primary-top')]}
+{'tag': 'div', 'data': 'Top leagues\n                \n                ', 'attrs': [('class', 'label primary-top')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Premier\n                        League', 'attrs': [('class', 'active active-tournament'), ('class', 'active-top'), ('class', 'flag fl_198'), ('href', '/football/england/premier-league/')]}
+{'tag': 'span', 'data': '\n                    ', 'attrs': [('class', 'active-bottom')]}
+{'tag': 'li', 'data': 'Championship\n                    ', 'attrs': [('class', 'flag fl_198'), ('href', '/football/england/championship/')]}
+{'tag': 'li', 'data': 'Ligue 1\n                    ', 'attrs': [('class', 'flag fl_77'), ('href', '/football/france/ligue-1/')]}
+{'tag': 'li', 'data': 'Bundesliga\n                    ', 'attrs': [('class', 'flag fl_81'), ('href', '/football/germany/bundesliga/')]}
+{'tag': 'li', 'data': 'Serie A\n                    ', 'attrs': [('class', 'flag fl_98'), ('href', '/football/italy/serie-a/')]}
+{'tag': 'li', 'data': 'Premier League\n                    ', 'attrs': [('class', 'flag fl_199'), ('href', '/football/scotland/premier-league/')]}
+{'tag': 'li', 'data': 'Primera Division\n                    ', 'attrs': [('class', 'flag fl_176'), ('href', '/football/spain/primera-division/')]}
+{'tag': 'li', 'data': 'Champions League\n                    ', 'attrs': [('class', 'flag fl_6'), ('href', '/football/europe/champions-league/')]}
+{'tag': 'li', 'data': 'Europa League\n                \n                ', 'attrs': [('class', 'last'), ('class', 'flag fl_6'), ('href', '/football/europe/europa-league/')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'adsenvelope adstextpad banx-left_menu_2'), ('id', 'lsadvert-zid-917'), ('style', 'width:120px !important;')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('style', 'height:60px !important')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('class', 'adscontent'), ('id', 'lsadvert-left_menu_2')]}
+{'tag': 'iframe', 'data': '\n                    \n                    ', 'attrs': [('id', 'lsadvert-zid-917-iframe'), ('name', 'banx-left_menu_2'), ('frameborder', '0'), ('scrolling', 'no'), ('style', 'width:120px; height:60px')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('class', 'adsgraphhori')]}
+{'tag': 'div', 'data': '\n                    \n                \n            \n            ', 'attrs': [('class', 'adsghori ath-en')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'Europe\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Albania\n                        ', 'attrs': [('id', 'lmenu_17'), ('class', 'flag fl_17'), ('href', '#'), ('onclick', 'return lmenu(17,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Super\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_17_nwPDBpVc'), ('href', '/football/albania/super-league/')]}
+{'tag': 'li', 'data': 'Andorra\n                    \n                    ', 'attrs': [('id', 'lmenu_19'), ('class', 'flag fl_19'), ('href', '#'), ('onclick', 'return lmenu(19,req_url,1);')]}
+{'tag': 'li', 'data': 'Armenia\n                        ', 'attrs': [('id', 'lmenu_23'), ('class', 'flag fl_23'), ('href', '#'), ('onclick', 'return lmenu(23,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_23_I5wWW4UM'), ('href', '/football/armenia/premier-league/')]}
+{'tag': 'li', 'data': 'Austria\n                        ', 'attrs': [('id', 'lmenu_25'), ('class', 'flag fl_25'), ('href', '#'), ('onclick', 'return lmenu(25,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Bundesliga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_25_rJg7S7Me'), ('href', '/football/austria/bundesliga/')]}
+{'tag': 'li', 'data': 'Erste Liga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_25_EPQbW9EF'), ('href', '/football/austria/erste-liga/')]}
+{'tag': 'li', 'data': 'OFB Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_25_8nQ2VTTL'), ('href', '/football/austria/ofb-cup/')]}
+{'tag': 'li', 'data': 'Azerbaijan\n                    ', 'attrs': [('id', 'lmenu_26'), ('class', 'flag fl_26'), ('href', '#'), ('onclick', 'return lmenu(26,req_url,1);')]}
+{'tag': 'li', 'data': 'Belarus\n                        ', 'attrs': [('id', 'lmenu_31'), ('class', 'flag fl_31'), ('href', '#'), ('onclick', 'return lmenu(31,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Vysshaya\n                                Liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_31_ObKhcPDs'), ('href', '/football/belarus/vysshaya-liga/')]}
+{'tag': 'li', 'data': 'Belgium\n                        ', 'attrs': [('id', 'lmenu_32'), ('class', 'flag fl_32'), ('href', '#'), ('onclick', 'return lmenu(32,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Jupiler\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_32_dG2SqPrf'), ('href', '/football/belgium/jupiler-league/')]}
+{'tag': 'li', 'data': 'Belgacom\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_32_dMwNgPSC'), ('href', '/football/belgium/belgacom-league/')]}
+{'tag': 'li', 'data': 'Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_32_6N9cdqTm'), ('href', '/football/belgium/cup/')]}
+{'tag': 'li', 'data': 'Bosnia \n                        Herzegovina\n                        ', 'attrs': [('id', 'lmenu_37'), ('class', 'flag fl_37'), ('href', '#'), ('onclick', 'return lmenu(37,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_37_Kt0lVSKJ'), ('href', '/football/bosnia-herzegovina/premier-league/')]}
+{'tag': 'li', 'data': 'Bulgaria\n                        ', 'attrs': [('id', 'lmenu_41'), ('class', 'flag fl_41'), ('href', '#'), ('onclick', 'return lmenu(41,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'A PFG\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_41_r9Y9rlDt'), ('href', '/football/bulgaria/a-pfg/')]}
+{'tag': 'li', 'data': 'Croatia\n                        ', 'attrs': [('id', 'lmenu_59'), ('class', 'flag fl_59'), ('href', '#'), ('onclick', 'return lmenu(59,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': '1. HNL\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_59_nqMxclRN'), ('href', '/football/croatia/1-hnl/')]}
+{'tag': 'li', 'data': 'Cyprus\n                        ', 'attrs': [('id', 'lmenu_61'), ('class', 'flag fl_61'), ('href', '#'), ('onclick', 'return lmenu(61,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'First\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_61_EmZxlqvh'), ('href', '/football/cyprus/first-division/')]}
+{'tag': 'li', 'data': 'Czech\n                        Republic\n                        ', 'attrs': [('id', 'lmenu_62'), ('class', 'flag fl_62'), ('href', '#'), ('onclick', 'return lmenu(62,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Gambrinus\n                                liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_62_hleea1wH'), ('href', '/football/czech-republic/gambrinus-liga/')]}
+{'tag': 'li', 'data': 'Denmark\n                        ', 'attrs': [('id', 'lmenu_63'), ('class', 'flag fl_63'), ('href', '#'), ('onclick', 'return lmenu(63,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Superliga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_63_O6W7GIaF'), ('href', '/football/denmark/superliga/')]}
+{'tag': 'li', 'data': 'Landspokal\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_63_trs3Hbp9'), ('href', '/football/denmark/landspokal-cup/')]}
+{'tag': 'li', 'data': 'England\n                        ', 'attrs': [('id', 'lmenu_198'), ('class', 'flag fl_198'), ('href', '#'), ('onclick', 'return lmenu(198,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_dYlOSQOD'), ('href', '/football/england/premier-league/')]}
+{'tag': 'li', 'data': 'Championship\n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_2DSCa5fE'), ('href', '/football/england/championship/')]}
+{'tag': 'li', 'data': 'League One\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_rJSMG3H0'), ('href', '/football/england/league-one/')]}
+{'tag': 'li', 'data': 'League Two\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_0MwU4NW6'), ('href', '/football/england/league-two/')]}
+{'tag': 'li', 'data': 'Blue\n                                Square Premier\n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_4CWHXGM1'), ('href', '/football/england/blue-square-premier/')]}
+{'tag': 'li', 'data': 'FA Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_lYQtaqPQ'), ('href', '/football/england/fa-cup/')]}
+{'tag': 'li', 'data': 'Capital\n                                One Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_198_OMT80ou8'), ('href', '/football/england/capital-one-cup/')]}
+{'tag': 'li', 'data': 'FA\n                                Community Shield\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_198_AsSx0P9K'), ('href', '/football/england/fa-community-shield/')]}
+{'tag': 'li', 'data': 'Estonia\n                        ', 'attrs': [('id', 'lmenu_73'), ('class', 'flag fl_73'), ('href', '#'), ('onclick', 'return lmenu(73,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Meistriliiga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_73_hvTioR1s'), ('href', '/football/estonia/meistriliiga/')]}
+{'tag': 'li', 'data': 'Faroe\n                        Islands\n                        ', 'attrs': [('id', 'lmenu_231'), ('class', 'flag fl_231'), ('href', '#'), ('onclick', 'return lmenu(231,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_231_dYEqqvyA'), ('href', '/football/faroe-islands/premier-league/')]}
+{'tag': 'li', 'data': 'Finland\n                        ', 'attrs': [('id', 'lmenu_76'), ('class', 'flag fl_76'), ('href', '#'), ('onclick', 'return lmenu(76,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Veikkausliiga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_76_lpTTNvTq'), ('href', '/football/finland/veikkausliiga/')]}
+{'tag': 'li', 'data': 'Ykkonen\n                            ', 'attrs': [('class', ''), ('data-mt', '1_76_W8IYMbrj'), ('href', '/football/finland/ykkonen/')]}
+{'tag': 'li', 'data': 'Suomen Cup\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_76_pGQUEKKS'), ('href', '/football/finland/suomen-cup/')]}
+{'tag': 'li', 'data': 'France\n                        ', 'attrs': [('id', 'lmenu_77'), ('class', 'flag fl_77'), ('href', '#'), ('onclick', 'return lmenu(77,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Ligue 1\n                            ', 'attrs': [('class', ''), ('data-mt', '1_77_KIShoMk3'), ('href', '/football/france/ligue-1/')]}
+{'tag': 'li', 'data': 'Ligue 2\n                            ', 'attrs': [('class', ''), ('data-mt', '1_77_Y35Jer59'), ('href', '/football/france/ligue-2/')]}
+{'tag': 'li', 'data': 'Coupe de\n                                la Ligue\n                            ', 'attrs': [('class', ''), ('data-mt', '1_77_tSTln2zc'), ('href', '/football/france/coupe-de-la-ligue/')]}
+{'tag': 'li', 'data': 'Coupe de\n                                France\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_77_AaHxMIcd'), ('href', '/football/france/coupe-de-france/')]}
+{'tag': 'li', 'data': 'FYR of\n                        Macedonia\n                        ', 'attrs': [('id', 'lmenu_118'), ('class', 'flag fl_118'), ('href', '#'), ('onclick', 'return lmenu(118,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'First\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_118_86Ja30cq'), ('href', '/football/fyr-of-macedonia/first-league/')]}
+{'tag': 'li', 'data': 'Georgia\n                        ', 'attrs': [('id', 'lmenu_80'), ('class', 'flag fl_80'), ('href', '#'), ('onclick', 'return lmenu(80,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Umaglesi\n                                Liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_80_ncI32KCk'), ('href', '/football/georgia/umaglesi-liga/')]}
+{'tag': 'li', 'data': 'Germany\n                        ', 'attrs': [('id', 'lmenu_81'), ('class', 'flag fl_81'), ('href', '#'), ('onclick', 'return lmenu(81,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Bundesliga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_81_W6BOzpK2'), ('href', '/football/germany/bundesliga/')]}
+{'tag': 'li', 'data': '2.\n                                Bundesliga\n                            ', 'attrs': [('class', ''), ('data-mt', '1_81_tKH71vSe'), ('href', '/football/germany/2-bundesliga/')]}
+{'tag': 'li', 'data': '3. Liga\n                            ', 'attrs': [('class', ''), ('data-mt', '1_81_fNLB0bs2'), ('href', '/football/germany/3-liga/')]}
+{'tag': 'li', 'data': 'DFB Pokal\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_81_MNEDyOlF'), ('href', '/football/germany/dfb-pokal/')]}
+{'tag': 'li', 'data': 'Greece\n                        ', 'attrs': [('id', 'lmenu_83'), ('class', 'flag fl_83'), ('href', '#'), ('onclick', 'return lmenu(83,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Super\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_83_d2pwJFHI'), ('href', '/football/greece/super-league/')]}
+{'tag': 'li', 'data': 'Hungary\n                        ', 'attrs': [('id', 'lmenu_91'), ('class', 'flag fl_91'), ('href', '#'), ('onclick', 'return lmenu(91,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'OTP Bank\n                                Liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_91_6aYykcXn'), ('href', '/football/hungary/otp-bank-liga/')]}
+{'tag': 'li', 'data': 'Iceland\n                        ', 'attrs': [('id', 'lmenu_92'), ('class', 'flag fl_92'), ('href', '#'), ('onclick', 'return lmenu(92,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Pepsideild\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_92_GdxJccH5'), ('href', '/football/iceland/pepsideild/')]}
+{'tag': 'li', 'data': 'Ireland\n                        ', 'attrs': [('id', 'lmenu_96'), ('class', 'flag fl_96'), ('href', '#'), ('onclick', 'return lmenu(96,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_96_naHiWdnt'), ('href', '/football/ireland/premier-league/')]}
+{'tag': 'li', 'data': 'FAI Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_96_QkGeVG1n'), ('href', '/football/ireland/fai-cup/')]}
+{'tag': 'li', 'data': 'Israel\n                        ', 'attrs': [('id', 'lmenu_97'), ('class', 'flag fl_97'), ('href', '#'), ('onclick', 'return lmenu(97,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': "Ligat ha'Al\n                            \n                        \n                    \n                    ", 'attrs': [('class', ''), ('data-mt', '1_97_rHJ2vy1B'), ('href', '/football/israel/ligat-ha-al/')]}
+{'tag': 'li', 'data': 'Italy\n                        ', 'attrs': [('id', 'lmenu_98'), ('class', 'flag fl_98'), ('href', '#'), ('onclick', 'return lmenu(98,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Serie A\n                            ', 'attrs': [('class', ''), ('data-mt', '1_98_COuk57Ci'), ('href', '/football/italy/serie-a/')]}
+{'tag': 'li', 'data': 'Serie B\n                            ', 'attrs': [('class', ''), ('data-mt', '1_98_6oug4RRc'), ('href', '/football/italy/serie-b/')]}
+{'tag': 'li', 'data': 'Lega Pro\n                                C1/A\n                            ', 'attrs': [('class', ''), ('data-mt', '1_98_8GveH5dA'), ('href', '/football/italy/lega-pro-c1-a/')]}
+{'tag': 'li', 'data': 'Lega Pro\n                                C1/B\n                            ', 'attrs': [('class', ''), ('data-mt', '1_98_jP17GPBG'), ('href', '/football/italy/lega-pro-c1-b/')]}
+{'tag': 'li', 'data': 'Coppa\n                                Italia\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_98_bLyo6mco'), ('href', '/football/italy/coppa-italia/')]}
+{'tag': 'li', 'data': 'Kazakhstan\n                    ', 'attrs': [('id', 'lmenu_102'), ('class', 'flag fl_102'), ('href', '#'), ('onclick', 'return lmenu(102,req_url,1);')]}
+{'tag': 'li', 'data': 'Latvia\n                        ', 'attrs': [('id', 'lmenu_110'), ('class', 'flag fl_110'), ('href', '#'), ('onclick', 'return lmenu(110,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Virsl\xc4\xabga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_110_rmWo9J97'), ('href', '/football/latvia/virsliga/')]}
+{'tag': 'li', 'data': 'Lithuania\n                        ', 'attrs': [('id', 'lmenu_116'), ('class', 'flag fl_116'), ('href', '#'), ('onclick', 'return lmenu(116,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'A Lyga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_116_lAYxY2n8'), ('href', '/football/lithuania/a-lyga/')]}
+{'tag': 'li', 'data': 'Luxembourg\n                    ', 'attrs': [('id', 'lmenu_117'), ('class', 'flag fl_117'), ('href', '#'), ('onclick', 'return lmenu(117,req_url,1);')]}
+{'tag': 'li', 'data': 'Malta\n                        ', 'attrs': [('id', 'lmenu_124'), ('class', 'flag fl_124'), ('href', '#'), ('onclick', 'return lmenu(124,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_124_ELVAW0WQ'), ('href', '/football/malta/premier-league/')]}
+{'tag': 'li', 'data': 'Moldova\n                        ', 'attrs': [('id', 'lmenu_130'), ('class', 'flag fl_130'), ('href', '#'), ('onclick', 'return lmenu(130,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Divizia\n                                Nationala\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_130_hA1Zm19f'), ('href', '/football/moldova/divizia-nationala/')]}
+{'tag': 'li', 'data': 'Montenegro\n                        ', 'attrs': [('id', 'lmenu_133'), ('class', 'flag fl_133'), ('href', '#'), ('onclick', 'return lmenu(133,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Prva\n                                Crnogorska Liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_133_W00wmLO0'), ('href', '/football/montenegro/prva-crnogorska-liga/')]}
+{'tag': 'li', 'data': 'Netherlands\n                        ', 'attrs': [('id', 'lmenu_139'), ('class', 'flag fl_139'), ('href', '#'), ('onclick', 'return lmenu(139,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Eredivisie\n                            ', 'attrs': [('class', ''), ('data-mt', '1_139_Or1bBrWD'), ('href', '/football/netherlands/eredivisie/')]}
+{'tag': 'li', 'data': 'Eerste\n                                Divisie\n                            ', 'attrs': [('class', ''), ('data-mt', '1_139_6Nl8nagD'), ('href', '/football/netherlands/eerste-divisie/')]}
+{'tag': 'li', 'data': 'KNVB\n                                Beker\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_139_4fGZN2oK'), ('href', '/football/netherlands/knvb-beker/')]}
+{'tag': 'li', 'data': 'Northern\n                        Ireland\n                        ', 'attrs': [('id', 'lmenu_144'), ('class', 'flag fl_144'), ('href', '#'), ('onclick', 'return lmenu(144,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'IFA\n                                Premiership\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_144_MgHlK2Na'), ('href', '/football/northern-ireland/ifa-premiership/')]}
+{'tag': 'li', 'data': 'Norway\n                        ', 'attrs': [('id', 'lmenu_145'), ('class', 'flag fl_145'), ('href', '#'), ('onclick', 'return lmenu(145,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Tippeligaen\n                            ', 'attrs': [('class', ''), ('data-mt', '1_145_GOvB22xg'), ('href', '/football/norway/tippeligaen/')]}
+{'tag': 'li', 'data': 'Adeccoligaen\n                            ', 'attrs': [('class', ''), ('data-mt', '1_145_UNGEKMx6'), ('href', '/football/norway/adeccoligaen/')]}
+{'tag': 'li', 'data': 'NM Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_145_fXf5mQ7t'), ('href', '/football/norway/nm-cup/')]}
+{'tag': 'li', 'data': 'Poland\n                        ', 'attrs': [('id', 'lmenu_154'), ('class', 'flag fl_154'), ('href', '#'), ('onclick', 'return lmenu(154,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Ekstraklasa\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_154_lrMHUHDc'), ('href', '/football/poland/ekstraklasa/')]}
+{'tag': 'li', 'data': 'Portugal\n                        ', 'attrs': [('id', 'lmenu_155'), ('class', 'flag fl_155'), ('href', '#'), ('onclick', 'return lmenu(155,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Portuguese\n                                Liga\n                            ', 'attrs': [('class', ''), ('data-mt', '1_155_UmMRoGzp'), ('href', '/football/portugal/portuguese-liga/')]}
+{'tag': 'li', 'data': 'Segunda\n                                Liga\n                            ', 'attrs': [('class', ''), ('data-mt', '1_155_hSUajdSS'), ('href', '/football/portugal/segunda-liga/')]}
+{'tag': 'li', 'data': 'Ta\xc3\xa7a de\n                                Portugal\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_155_j3Azpf5d'), ('href', '/football/portugal/taca-de-portugal/')]}
+{'tag': 'li', 'data': 'Romania\n                        ', 'attrs': [('id', 'lmenu_157'), ('class', 'flag fl_157'), ('href', '#'), ('onclick', 'return lmenu(157,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Liga I\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_157_GILi6JC9'), ('href', '/football/romania/liga-i/')]}
+{'tag': 'li', 'data': 'Russia\n                        ', 'attrs': [('id', 'lmenu_158'), ('class', 'flag fl_158'), ('href', '#'), ('onclick', 'return lmenu(158,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_158_YacqHHdS'), ('href', '/football/russia/premier-league/')]}
+{'tag': 'li', 'data': 'Scotland\n                        ', 'attrs': [('id', 'lmenu_199'), ('class', 'flag fl_199'), ('href', '#'), ('onclick', 'return lmenu(199,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_199_tGwiyvJ1'), ('href', '/football/scotland/premier-league/')]}
+{'tag': 'li', 'data': 'Division\n                                1\n                            ', 'attrs': [('class', ''), ('data-mt', '1_199_6uz2cJBL'), ('href', '/football/scotland/division-1/')]}
+{'tag': 'li', 'data': 'Division\n                                2\n                            ', 'attrs': [('class', ''), ('data-mt', '1_199_l4P6dwRR'), ('href', '/football/scotland/division-2/')]}
+{'tag': 'li', 'data': 'Division\n                                3\n                            ', 'attrs': [('class', ''), ('data-mt', '1_199_UsushcZr'), ('href', '/football/scotland/division-3/')]}
+{'tag': 'li', 'data': 'FA Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_199_O4voiHlk'), ('href', '/football/scotland/fa-cup/')]}
+{'tag': 'li', 'data': 'Insurance\n                                League Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_199_U3lM3y4e'), ('href', '/football/scotland/insurance-league-cup/')]}
+{'tag': 'li', 'data': 'Serbia\n                        ', 'attrs': [('id', 'lmenu_167'), ('class', 'flag fl_167'), ('href', '#'), ('onclick', 'return lmenu(167,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Super Liga\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_167_jVhkb1QE'), ('href', '/football/serbia/super-liga/')]}
+{'tag': 'li', 'data': 'Slovakia\n                        ', 'attrs': [('id', 'lmenu_171'), ('class', 'flag fl_171'), ('href', '#'), ('onclick', 'return lmenu(171,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Corgon\n                                Liga\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_171_4KcaFam1'), ('href', '/football/slovakia/corgon-liga/')]}
+{'tag': 'li', 'data': 'Slovenia\n                        ', 'attrs': [('id', 'lmenu_172'), ('class', 'flag fl_172'), ('href', '#'), ('onclick', 'return lmenu(172,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Prva liga\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_172_dQIMIN5n'), ('href', '/football/slovenia/prva-liga/')]}
+{'tag': 'li', 'data': 'Spain\n                        ', 'attrs': [('id', 'lmenu_176'), ('class', 'flag fl_176'), ('href', '#'), ('onclick', 'return lmenu(176,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                            ', 'attrs': [('class', ''), ('data-mt', '1_176_QVmLl54o'), ('href', '/football/spain/primera-division/')]}
+{'tag': 'li', 'data': 'Segunda\n                                Division\n                            ', 'attrs': [('class', ''), ('data-mt', '1_176_vZiPmPJi'), ('href', '/football/spain/segunda-division/')]}
+{'tag': 'li', 'data': 'Copa del\n                                Rey\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_176_lnb8EJRp'), ('href', '/football/spain/copa-del-rey/')]}
+{'tag': 'li', 'data': 'Sweden\n                        ', 'attrs': [('id', 'lmenu_181'), ('class', 'flag fl_181'), ('href', '#'), ('onclick', 'return lmenu(181,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Allsvenskan\n                            ', 'attrs': [('class', ''), ('data-mt', '1_181_nXxWpLmT'), ('href', '/football/sweden/allsvenskan/')]}
+{'tag': 'li', 'data': 'Superettan\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_181_bBIP6pm3'), ('href', '/football/sweden/superettan/')]}
+{'tag': 'li', 'data': 'Svenska\n                                Cupen\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_181_pWCk7429'), ('href', '/football/sweden/svenska-cupen/')]}
+{'tag': 'li', 'data': 'Switzerland\n                        ', 'attrs': [('id', 'lmenu_182'), ('class', 'flag fl_182'), ('href', '#'), ('onclick', 'return lmenu(182,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Super\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_182_KAjTCI1l'), ('href', '/football/switzerland/super-league/')]}
+{'tag': 'li', 'data': 'Challenge\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_182_jVMQJOHF'), ('href', '/football/switzerland/challenge-league/')]}
+{'tag': 'li', 'data': 'Swiss\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_182_EXkXBxHf'), ('href', '/football/switzerland/swiss-cup/')]}
+{'tag': 'li', 'data': 'Turkey\n                        ', 'attrs': [('id', 'lmenu_191'), ('class', 'flag fl_191'), ('href', '#'), ('onclick', 'return lmenu(191,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'SuperLiga\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_191_Opdcd08Q'), ('href', '/football/turkey/superliga/')]}
+{'tag': 'li', 'data': 'PTT 1. Lig\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_191_Spw6Az1D'), ('href', '/football/turkey/ptt-1-lig/')]}
+{'tag': 'li', 'data': 'Turkish\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_191_WbT430Fg'), ('href', '/football/turkey/turkish-cup/')]}
+{'tag': 'li', 'data': 'Ukraine\n                        ', 'attrs': [('id', 'lmenu_195'), ('class', 'flag fl_195'), ('href', '#'), ('onclick', 'return lmenu(195,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_195_Myjs3vp6'), ('href', '/football/ukraine/premier-league/')]}
+{'tag': 'li', 'data': 'Wales\n                        ', 'attrs': [('id', 'lmenu_207'), ('class', 'last'), ('class', 'flag fl_207'), ('href', '#'), ('onclick', 'return lmenu(207,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                        \n                    \n                \n                ', 'attrs': [('class', ''), ('data-mt', '1_207_6kmzF1qt'), ('href', '/football/wales/premier/')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'South America\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Argentina\n                        ', 'attrs': [('id', 'lmenu_22'), ('class', 'flag fl_22'), ('href', '#'), ('onclick', 'return lmenu(22,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                            ', 'attrs': [('class', ''), ('data-mt', '1_22_naYhNOaA'), ('href', '/football/argentina/primera-division/')]}
+{'tag': 'li', 'data': 'Torneos\n                                De Verano\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_22_4K05MrFG'), ('href', '/football/argentina/torneos-de-verano/')]}
+{'tag': 'li', 'data': 'Bolivia\n                        ', 'attrs': [('id', 'lmenu_36'), ('class', 'flag fl_36'), ('href', '#'), ('onclick', 'return lmenu(36,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Liga\n                                de Futbol Prof\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_36_2Lmb6qrJ'), ('href', '/football/bolivia/liga-de-futbol-prof/')]}
+{'tag': 'li', 'data': 'Brazil\n                        ', 'attrs': [('id', 'lmenu_39'), ('class', 'flag fl_39'), ('href', '#'), ('onclick', 'return lmenu(39,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'S\xc3\xa9rie A\n                            ', 'attrs': [('class', ''), ('data-mt', '1_39_Yq4hUnzQ'), ('href', '/football/brazil/serie-a/')]}
+{'tag': 'li', 'data': 'Copa do\n                                Brasil\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_39_zFsJPnr6'), ('href', '/football/brazil/copa-do-brasil/')]}
+{'tag': 'li', 'data': 'Chile\n                        ', 'attrs': [('id', 'lmenu_51'), ('class', 'flag fl_51'), ('href', '#'), ('onclick', 'return lmenu(51,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_51_0KangpCU'), ('href', '/football/chile/primera-division/')]}
+{'tag': 'li', 'data': 'Colombia\n                        ', 'attrs': [('id', 'lmenu_53'), ('class', 'flag fl_53'), ('href', '#'), ('onclick', 'return lmenu(53,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Liga\n                                Postobon\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_53_t0fpnjs5'), ('href', '/football/colombia/liga-postobon/')]}
+{'tag': 'li', 'data': 'Ecuador\n                        ', 'attrs': [('id', 'lmenu_68'), ('class', 'flag fl_68'), ('href', '#'), ('onclick', 'return lmenu(68,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Serie A\n                            \n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_68_WWZFEdUR'), ('href', '/football/ecuador/serie-a/')]}
+{'tag': 'li', 'data': 'Paraguay\n                    ', 'attrs': [('id', 'lmenu_151'), ('class', 'flag fl_151'), ('href', '#'), ('onclick', 'return lmenu(151,req_url,1);')]}
+{'tag': 'li', 'data': 'Peru\n                    \n                    ', 'attrs': [('id', 'lmenu_152'), ('class', 'flag fl_152'), ('href', '#'), ('onclick', 'return lmenu(152,req_url,1);')]}
+{'tag': 'li', 'data': 'Trinidad\n                        and Tobago\n                    ', 'attrs': [('id', 'lmenu_189'), ('class', 'flag fl_189'), ('href', '#'), ('onclick', 'return lmenu(189,req_url,1);')]}
+{'tag': 'li', 'data': 'Uruguay\n                        ', 'attrs': [('id', 'lmenu_201'), ('class', 'flag fl_201'), ('href', '#'), ('onclick', 'return lmenu(201,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_201_r9s6zO6P'), ('href', '/football/uruguay/primera-division/')]}
+{'tag': 'li', 'data': 'Venezuela\n                \n                ', 'attrs': [('id', 'lmenu_205'), ('class', 'last'), ('class', 'flag fl_205'), ('href', '#'), ('onclick', 'return lmenu(205,req_url,1);')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'North  Central America\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Canada\n                        ', 'attrs': [('id', 'lmenu_47'), ('class', 'flag fl_47'), ('href', '#'), ('onclick', 'return lmenu(47,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'CSL\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_47_4h6we6sI'), ('href', '/football/canada/csl/')]}
+{'tag': 'li', 'data': 'Costa\n                        Rica\n                        ', 'attrs': [('id', 'lmenu_57'), ('class', 'flag fl_57'), ('href', '#'), ('onclick', 'return lmenu(57,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_57_tpC1pUBH'), ('href', '/football/costa-rica/primera-division/')]}
+{'tag': 'li', 'data': 'El\n                        Salvador\n                        ', 'attrs': [('id', 'lmenu_70'), ('class', 'flag fl_70'), ('href', '#'), ('onclick', 'return lmenu(70,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_70_xxxpBZl2'), ('href', '/football/el-salvador/primera-division/')]}
+{'tag': 'li', 'data': 'Guatemala\n                        ', 'attrs': [('id', 'lmenu_85'), ('class', 'flag fl_85'), ('href', '#'), ('onclick', 'return lmenu(85,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Liga\n                                Nacional\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_85_zgqsIZWO'), ('href', '/football/guatemala/liga-nacional/')]}
+{'tag': 'li', 'data': 'Honduras\n                        ', 'attrs': [('id', 'lmenu_90'), ('class', 'flag fl_90'), ('href', '#'), ('onclick', 'return lmenu(90,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Liga\n                                Nacional\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_90_YeUwzehC'), ('href', '/football/honduras/liga-nacional/')]}
+{'tag': 'li', 'data': 'Mexico\n                        ', 'attrs': [('id', 'lmenu_128'), ('class', 'flag fl_128'), ('href', '#'), ('onclick', 'return lmenu(128,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Primera\n                                Division\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_128_bm2Vlsfl'), ('href', '/football/mexico/primera-division/')]}
+{'tag': 'li', 'data': 'USA\n                        ', 'attrs': [('id', 'lmenu_200'), ('class', 'last'), ('class', 'flag fl_200'), ('href', '#'), ('onclick', 'return lmenu(200,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'MLS\n                        \n                    \n                \n                ', 'attrs': [('class', ''), ('data-mt', '1_200_CQv5qrFt'), ('href', '/football/usa/mls/')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'Asia\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Bahrain\n                    \n                    ', 'attrs': [('id', 'lmenu_28'), ('class', 'flag fl_28'), ('href', '#'), ('onclick', 'return lmenu(28,req_url,1);')]}
+{'tag': 'li', 'data': 'China\n                        ', 'attrs': [('id', 'lmenu_52'), ('class', 'flag fl_52'), ('href', '#'), ('onclick', 'return lmenu(52,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Super\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_52_nc9yRmcn'), ('href', '/football/china/super-league/')]}
+{'tag': 'li', 'data': 'Hong\n                        Kong\n                    ', 'attrs': [('id', 'lmenu_222'), ('class', 'flag fl_222'), ('href', '#'), ('onclick', 'return lmenu(222,req_url,1);')]}
+{'tag': 'li', 'data': 'India\n                        ', 'attrs': [('id', 'lmenu_93'), ('class', 'flag fl_93'), ('href', '#'), ('onclick', 'return lmenu(93,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'I-League\n                            \n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_93_OQyqbHWB'), ('href', '/football/india/i-league/')]}
+{'tag': 'li', 'data': 'Iran\n                    ', 'attrs': [('id', 'lmenu_94'), ('class', 'flag fl_94'), ('href', '#'), ('onclick', 'return lmenu(94,req_url,1);')]}
+{'tag': 'li', 'data': 'Iraq\n                    ', 'attrs': [('id', 'lmenu_95'), ('class', 'flag fl_95'), ('href', '#'), ('onclick', 'return lmenu(95,req_url,1);')]}
+{'tag': 'li', 'data': 'Japan\n                        ', 'attrs': [('id', 'lmenu_100'), ('class', 'flag fl_100'), ('href', '#'), ('onclick', 'return lmenu(100,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'J-League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_100_pAq4eRQ9'), ('href', '/football/japan/j-league/')]}
+{'tag': 'li', 'data': 'Jordan\n                    \n                    ', 'attrs': [('id', 'lmenu_101'), ('class', 'flag fl_101'), ('href', '#'), ('onclick', 'return lmenu(101,req_url,1);')]}
+{'tag': 'li', 'data': 'Kuwait\n                    \n                    ', 'attrs': [('id', 'lmenu_107'), ('class', 'flag fl_107'), ('href', '#'), ('onclick', 'return lmenu(107,req_url,1);')]}
+{'tag': 'li', 'data': 'Lebanon\n                    ', 'attrs': [('id', 'lmenu_111'), ('class', 'flag fl_111'), ('href', '#'), ('onclick', 'return lmenu(111,req_url,1);')]}
+{'tag': 'li', 'data': 'Malaysia\n                    ', 'attrs': [('id', 'lmenu_121'), ('class', 'flag fl_121'), ('href', '#'), ('onclick', 'return lmenu(121,req_url,1);')]}
+{'tag': 'li', 'data': 'Oman\n                    \n                    ', 'attrs': [('id', 'lmenu_146'), ('class', 'flag fl_146'), ('href', '#'), ('onclick', 'return lmenu(146,req_url,1);')]}
+{'tag': 'li', 'data': 'Qatar\n                        ', 'attrs': [('id', 'lmenu_156'), ('class', 'flag fl_156'), ('href', '#'), ('onclick', 'return lmenu(156,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'false')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_156_8nCtm7SE'), ('href', '/football/qatar/premier-league/')]}
+{'tag': 'li', 'data': 'Saudi\n                        Arabia\n                    ', 'attrs': [('id', 'lmenu_165'), ('class', 'flag fl_165'), ('href', '#'), ('onclick', 'return lmenu(165,req_url,1);')]}
+{'tag': 'li', 'data': 'Singapore\n                        ', 'attrs': [('id', 'lmenu_170'), ('class', 'flag fl_170'), ('href', '#'), ('onclick', 'return lmenu(170,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'S.League\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_170_CpsbdueR'), ('href', '/football/singapore/s-league/')]}
+{'tag': 'li', 'data': 'South\n                        Korea\n                        ', 'attrs': [('id', 'lmenu_106'), ('class', 'flag fl_106'), ('href', '#'), ('onclick', 'return lmenu(106,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'K-League\n                                Classic\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_106_0IDCJLlH'), ('href', '/football/south-korea/k-league-classic/')]}
+{'tag': 'li', 'data': 'Syria\n                    \n                    ', 'attrs': [('id', 'lmenu_183'), ('class', 'flag fl_183'), ('href', '#'), ('onclick', 'return lmenu(183,req_url,1);')]}
+{'tag': 'li', 'data': 'Thailand\n                    ', 'attrs': [('id', 'lmenu_186'), ('class', 'flag fl_186'), ('href', '#'), ('onclick', 'return lmenu(186,req_url,1);')]}
+{'tag': 'li', 'data': 'United\n                        Arab Emirates\n                        ', 'attrs': [('id', 'lmenu_196'), ('class', 'flag fl_196'), ('href', '#'), ('onclick', 'return lmenu(196,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'UAE\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_196_E7jH2KUa'), ('href', '/football/united-arab-emirates/uae-league/')]}
+{'tag': 'li', 'data': 'Uzbekistan\n                    ', 'attrs': [('id', 'lmenu_202'), ('class', 'flag fl_202'), ('href', '#'), ('onclick', 'return lmenu(202,req_url,1);')]}
+{'tag': 'li', 'data': 'Vietnam\n                    ', 'attrs': [('id', 'lmenu_206'), ('class', 'flag fl_206'), ('href', '#'), ('onclick', 'return lmenu(206,req_url,1);')]}
+{'tag': 'li', 'data': 'Yemen\n                \n                ', 'attrs': [('id', 'lmenu_208'), ('class', 'last'), ('class', 'flag fl_208'), ('href', '#'), ('onclick', 'return lmenu(208,req_url,1);')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'Australia  Oceania\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Australia\n                        ', 'attrs': [('id', 'lmenu_24'), ('class', 'flag fl_24'), ('href', '#'), ('onclick', 'return lmenu(24,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'A-League\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_24_OjWW1naM'), ('href', '/football/australia/a-league/')]}
+{'tag': 'li', 'data': 'Indonesia\n                        ', 'attrs': [('id', 'lmenu_228'), ('class', 'flag fl_228'), ('href', '#'), ('onclick', 'return lmenu(228,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', 'last'), ('data-mt', '1_228_AH7eZNgn'), ('href', '/football/indonesia/premier-league/')]}
+{'tag': 'li', 'data': 'New Zealand\n                \n                ', 'attrs': [('id', 'lmenu_140'), ('class', 'last'), ('class', 'flag fl_140'), ('href', '#'), ('onclick', 'return lmenu(140,req_url,1);')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'Africa\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Algeria\n                        ', 'attrs': [('id', 'lmenu_18'), ('class', 'flag fl_18'), ('href', '#'), ('onclick', 'return lmenu(18,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Division 1\n                            \n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_18_zLQAGOBK'), ('href', '/football/algeria/division-1/')]}
+{'tag': 'li', 'data': 'Angola\n                    \n                    ', 'attrs': [('id', 'lmenu_20'), ('class', 'flag fl_20'), ('href', '#'), ('onclick', 'return lmenu(20,req_url,1);')]}
+{'tag': 'li', 'data': 'Cameroon\n                    \n                    ', 'attrs': [('id', 'lmenu_46'), ('class', 'flag fl_46'), ('href', '#'), ('onclick', 'return lmenu(46,req_url,1);')]}
+{'tag': 'li', 'data': 'Congo DR\n                    \n                    ', 'attrs': [('id', 'lmenu_55'), ('class', 'flag fl_55'), ('href', '#'), ('onclick', 'return lmenu(55,req_url,1);')]}
+{'tag': 'li', 'data': 'Egypt\n                        ', 'attrs': [('id', 'lmenu_69'), ('class', 'flag fl_69'), ('href', '#'), ('onclick', 'return lmenu(69,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_69_xbpjAGxq'), ('href', '/football/egypt/premier-league/')]}
+{'tag': 'li', 'data': 'Ghana\n                    \n                    ', 'attrs': [('id', 'lmenu_82'), ('class', 'flag fl_82'), ('href', '#'), ('onclick', 'return lmenu(82,req_url,1);')]}
+{'tag': 'li', 'data': 'Kenya\n                    \n                    ', 'attrs': [('id', 'lmenu_103'), ('class', 'flag fl_103'), ('href', '#'), ('onclick', 'return lmenu(103,req_url,1);')]}
+{'tag': 'li', 'data': 'Libya\n                    \n                    ', 'attrs': [('id', 'lmenu_114'), ('class', 'flag fl_114'), ('href', '#'), ('onclick', 'return lmenu(114,req_url,1);')]}
+{'tag': 'li', 'data': 'Morocco\n                        ', 'attrs': [('id', 'lmenu_134'), ('class', 'flag fl_134'), ('href', '#'), ('onclick', 'return lmenu(134,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Botola\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_134_SWk4muv7'), ('href', '/football/morocco/botola/')]}
+{'tag': 'li', 'data': 'Namibia\n                    ', 'attrs': [('id', 'lmenu_136'), ('class', 'flag fl_136'), ('href', '#'), ('onclick', 'return lmenu(136,req_url,1);')]}
+{'tag': 'li', 'data': 'Nigeria\n                    ', 'attrs': [('id', 'lmenu_143'), ('class', 'flag fl_143'), ('href', '#'), ('onclick', 'return lmenu(143,req_url,1);')]}
+{'tag': 'li', 'data': 'South\n                        Africa\n                        ', 'attrs': [('id', 'lmenu_175'), ('class', 'flag fl_175'), ('href', '#'), ('onclick', 'return lmenu(175,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Premier\n                                League\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_175_WYFXQ1KH'), ('href', '/football/south-africa/premier-league/')]}
+{'tag': 'li', 'data': 'Sudan\n                    \n                    ', 'attrs': [('id', 'lmenu_178'), ('class', 'flag fl_178'), ('href', '#'), ('onclick', 'return lmenu(178,req_url,1);')]}
+{'tag': 'li', 'data': 'Tunisia\n                        ', 'attrs': [('id', 'lmenu_190'), ('class', 'flag fl_190'), ('href', '#'), ('onclick', 'return lmenu(190,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Ligue\n                                Professionnelle 1\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_190_lfv2BGo7'), ('href', '/football/tunisia/ligue-professionnelle-1/')]}
+{'tag': 'li', 'data': 'Zimbabwe\n                \n                ', 'attrs': [('id', 'lmenu_210'), ('class', 'last'), ('class', 'flag fl_210'), ('href', '#'), ('onclick', 'return lmenu(210,req_url,1);')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'left-menu')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'head')]}
+{'tag': 'div', 'data': 'World\n                \n                ', 'attrs': [('class', 'label')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': []}
+{'tag': 'li', 'data': 'Africa\n                        ', 'attrs': [('id', 'lmenu_1'), ('class', 'flag fl_1'), ('href', '#'), ('onclick', 'return lmenu(1,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Africa\n                                Cup of Nations\n                            ', 'attrs': [('class', ''), ('data-mt', '1_1_8bP2bXmH'), ('href', '/football/africa/africa-cup-of-nations/')]}
+{'tag': 'li', 'data': 'World Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_1_lvUBR5F8'), ('href', '/football/africa/world-cup/')]}
+{'tag': 'li', 'data': 'CAF\n                                Champions league\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_1_EcZwBi3N'), ('href', '/football/africa/caf-champions-league/')]}
+{'tag': 'li', 'data': 'Asia\n                        ', 'attrs': [('id', 'lmenu_5'), ('class', 'flag fl_5'), ('href', '#'), ('onclick', 'return lmenu(5,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'AFC\n                                Champions League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_5_ddxzWOqT'), ('href', '/football/asia/afc-champions-league/')]}
+{'tag': 'li', 'data': 'World Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_5_lvUBR5F8'), ('href', '/football/asia/world-cup/')]}
+{'tag': 'li', 'data': 'Australia \n                        Oceania\n                        ', 'attrs': [('id', 'lmenu_7'), ('class', 'flag fl_7'), ('href', '#'), ('onclick', 'return lmenu(7,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'OFC Champions League\n                            \n                            ', 'attrs': [('class', ''), ('data-mt', '1_7_nypUMTq3'), ('href', '/football/australia-oceania/ofc-champions-league/')]}
+{'tag': 'li', 'data': 'World\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_7_lvUBR5F8'), ('href', '/football/australia-oceania/world-cup/')]}
+{'tag': 'li', 'data': 'Europe\n                        ', 'attrs': [('id', 'lmenu_6'), ('class', 'flag fl_6'), ('href', '#'), ('onclick', 'return lmenu(6,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Euro\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_KQMVOQ0g'), ('href', '/football/europe/euro/')]}
+{'tag': 'li', 'data': 'Champions\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_xGrwqq16'), ('href', '/football/europe/champions-league/')]}
+{'tag': 'li', 'data': 'World Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_lvUBR5F8'), ('href', '/football/europe/world-cup/')]}
+{'tag': 'li', 'data': 'Europa\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_ClDjv3V5'), ('href', '/football/europe/europa-league/')]}
+{'tag': 'li', 'data': 'UEFA Super\n                                Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_xna99dEj'), ('href', '/football/europe/uefa-super-cup/')]}
+{'tag': 'li', 'data': 'Euro U21\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_G2HlWGUp'), ('href', '/football/europe/euro-u21/')]}
+{'tag': 'li', 'data': 'Euro U19\n                            ', 'attrs': [('class', ''), ('data-mt', '1_6_4QlLmq0I'), ('href', '/football/europe/euro-u19/')]}
+{'tag': 'li', 'data': 'Euro U17\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_6_juCfwNpC'), ('href', '/football/europe/euro-u17/')]}
+{'tag': 'li', 'data': 'North \n                        Central ...\n                        ', 'attrs': [('id', 'lmenu_2'), ('class', 'flag fl_2'), ('href', '#'), ('onclick', 'return lmenu(2,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'World\n                                Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_2_lvUBR5F8'), ('href', '/football/north-central-america/world-cup/')]}
+{'tag': 'li', 'data': 'CONCACAF Champions\n                                League\n                            ', 'attrs': [('class', ''), ('data-mt', '1_2_6F0lvLNC'), ('href', '/football/north-central-america/concacaf-champions-league/')]}
+{'tag': 'li', 'data': 'Gold\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_2_zckREQFJ'), ('href', '/football/north-central-america/gold-cup/')]}
+{'tag': 'li', 'data': 'South\n                        America\n                        ', 'attrs': [('id', 'lmenu_3'), ('class', 'flag fl_3'), ('href', '#'), ('onclick', 'return lmenu(3,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'Copa\n                                Libertadores\n                            ', 'attrs': [('class', ''), ('data-mt', '1_3_zmKRcPKu'), ('href', '/football/south-america/copa-libertadores/')]}
+{'tag': 'li', 'data': 'Copa\n                                Sudamericana\n                            ', 'attrs': [('class', ''), ('data-mt', '1_3_EwJVdqzn'), ('href', '/football/south-america/copa-sudamericana/')]}
+{'tag': 'li', 'data': 'World\n                                Cup\n                        \n                    \n                    ', 'attrs': [('class', ''), ('data-mt', '1_3_lvUBR5F8'), ('href', '/football/south-america/world-cup/')]}
+{'tag': 'li', 'data': 'World\n                        ', 'attrs': [('id', 'lmenu_8'), ('class', 'last'), ('class', 'flag fl_8'), ('href', '#'), ('onclick', 'return lmenu(8,req_url,1);')]}
+{'tag': 'ul', 'data': '\n                            ', 'attrs': [('class', 'submenu hidden'), ('data-ajax', 'true')]}
+{'tag': 'li', 'data': 'World Cup\n                            ', 'attrs': [('class', ''), ('data-mt', '1_8_lvUBR5F8'), ('href', '/football/world/world-cup/')]}
+{'tag': 'li', 'data': 'Club\n                                Friendly\n                            ', 'attrs': [('class', ''), ('data-mt', '1_8_Ox0MZaDH'), ('href', '/football/world/club-friendly/')]}
+{'tag': 'li', 'data': 'Friendly\n                                International\n                        \n                    \n                \n                ', 'attrs': [('class', ''), ('data-mt', '1_8_f1GbGBCd'), ('href', '/football/world/friendly-international/')]}
+{'tag': 'div', 'data': '\n            \n            ', 'attrs': [('class', 'left-menu-bottom')]}
+{'tag': 'hr', 'data': '\n        \n        ', 'attrs': [('class', 'no-display')]}
+{'tag': 'div', 'data': '\n    \n    ', 'attrs': [('class', 'clear')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('class', 'main-top')]}
+{'tag': 'div', 'data': '\n        ', 'attrs': [('class', 'menu'), ('id', 'menu')]}
+{'tag': 'ul', 'data': '\n            ', 'attrs': []}
+{'tag': 'li', 'data': 'Football', 'attrs': [('class', 'active'), ('class', 'corner-left'), ('href', '/'), ('class', 'soccer')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Tennis', 'attrs': [('class', 'corner-left'), ('href', '/tennis/'), ('class', 'tennis')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Basketball', 'attrs': [('class', 'corner-left'), ('href', '/basketball/'), ('class', 'basketball')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Handball', 'attrs': [('class', 'corner-left'), ('href', '/handball/'), ('class', 'handball')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Volleyball', 'attrs': [('class', 'corner-left'), ('href', '/volleyball/'), ('class', 'volleyball')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Hockey', 'attrs': [('class', 'corner-left'), ('href', '/ice-hockey/'), ('class', 'hockey')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Baseball', 'attrs': [('class', 'corner-left'), ('href', '/baseball/'), ('class', 'baseball')]}
+{'tag': 'span', 'data': '\n            ', 'attrs': [('class', 'corner-right')]}
+{'tag': 'li', 'data': 'Other', 'attrs': [('class', 'minority last'), ('onmouseout', 'menumin_hide()'), ('onmouseover', 'menumin_fix()'), ('class', 'corner-left'), ('class', 'content'), ('class', 'other'), ('href', '#'), ('onmouseover', 'menumin_show()'), ('class', 'sport-icon minority')]}
+{'tag': 'span', 'data': '\n                ', 'attrs': [('class', 'arrow'), ('class', 'corner-right')]}
+{'tag': 'ul', 'data': '\n                    ', 'attrs': [('id', 'menumin')]}
+{'tag': 'li', 'data': 'Am.football\n                    ', 'attrs': [('class', 'american-football s5'), ('onmouseover', 'menumin_fix()'), ('href', '/american-football/'), ('class', 'sport-icon american-football s5')]}
+{'tag': 'li', 'data': 'Floorball\n                    ', 'attrs': [('class', 'floorball s9 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/floorball/'), ('class', 'sport-icon floorball s9 rt')]}
+{'tag': 'li', 'data': 'Aussie rules\n                    ', 'attrs': [('class', 'aussie-rules s18'), ('onmouseover', 'menumin_fix()'), ('href', '/aussie-rules/'), ('class', 'sport-icon aussie-rules s18')]}
+{'tag': 'li', 'data': 'Futsal\n                    ', 'attrs': [('class', 'futsal s11 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/futsal/'), ('class', 'sport-icon futsal s11 rt')]}
+{'tag': 'li', 'data': 'Badminton\n                    ', 'attrs': [('class', 'badminton s21'), ('onmouseover', 'menumin_fix()'), ('href', '/badminton/'), ('class', 'sport-icon badminton s21')]}
+{'tag': 'li', 'data': 'MMA\n                    ', 'attrs': [('class', 'mma s28 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/mma/'), ('class', 'sport-icon mma s28 rt')]}
+{'tag': 'li', 'data': 'Bandy\n                    ', 'attrs': [('class', 'bandy s10'), ('onmouseover', 'menumin_fix()'), ('href', '/bandy/'), ('class', 'sport-icon bandy s10')]}
+{'tag': 'li', 'data': 'Netball\n                    ', 'attrs': [('class', 'netball s29 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/netball/'), ('class', 'sport-icon netball s29 rt')]}
+{'tag': 'li', 'data': 'Beach soccer\n                    ', 'attrs': [('class', 'beach-soccer s26'), ('onmouseover', 'menumin_fix()'), ('href', '/beach-soccer/'), ('class', 'sport-icon beach-soccer s26')]}
+{'tag': 'li', 'data': 'Rugby League\n                    ', 'attrs': [('class', 'rugby-league s19 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/rugby-league/'), ('class', 'sport-icon rugby-league s19 rt')]}
+{'tag': 'li', 'data': 'Beach volleyball\n                    ', 'attrs': [('class', 'beach-volleyball s17'), ('onmouseover', 'menumin_fix()'), ('href', '/beach-volleyball/'), ('class', 'sport-icon beach-volleyball s17')]}
+{'tag': 'li', 'data': 'Rugby Union\n                    ', 'attrs': [('class', 'rugby-union s8 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/rugby-union/'), ('class', 'sport-icon rugby-union s8 rt')]}
+{'tag': 'li', 'data': 'Boxing\n                    ', 'attrs': [('class', 'boxing s16'), ('onmouseover', 'menumin_fix()'), ('href', '/boxing/'), ('class', 'sport-icon boxing s16')]}
+{'tag': 'li', 'data': 'Snooker\n                    ', 'attrs': [('class', 'snooker s15 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/snooker/'), ('class', 'sport-icon snooker s15 rt')]}
+{'tag': 'li', 'data': 'Cricket\n                    ', 'attrs': [('class', 'cricket s13'), ('onmouseover', 'menumin_fix()'), ('href', '/cricket/'), ('class', 'sport-icon cricket s13')]}
+{'tag': 'li', 'data': 'Table tennis\n                    ', 'attrs': [('class', 'table-tennis s25 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/table-tennis/'), ('class', 'sport-icon table-tennis s25 rt')]}
+{'tag': 'li', 'data': 'Darts\n                    ', 'attrs': [('class', 'darts s14'), ('onmouseover', 'menumin_fix()'), ('href', '/darts/'), ('class', 'sport-icon darts s14')]}
+{'tag': 'li', 'data': 'Water polo\n                    ', 'attrs': [('class', 'water-polo s22 rt'), ('onmouseover', 'menumin_fix()'), ('href', '/water-polo/'), ('class', 'sport-icon water-polo s22 rt')]}
+{'tag': 'li', 'data': 'Field hockey\n                    ', 'attrs': [('class', 'field-hockey s24 last'), ('onmouseover', 'menumin_fix()'), ('href', '/field-hockey/'), ('class', 'sport-icon field-hockey s24 last')]}
+{'tag': 'li', 'data': '\n                \n            \n        \n        ', 'attrs': [('class', 'final rt')]}
+{'tag': 'hr', 'data': '\n    \n    ', 'attrs': [('class', 'no-display')]}
+{'tag': 'div', 'data': 'Note: Premier League results service at Results24.co.uk offers Premier League live\n        results and Premier League standings. ', 'attrs': [('class', 'footer')]}
+{'tag': 'b', 'data': "Football England live! Follow live scores, today's Premier League\n        results, match summary, odds comparison, H2H stats and Premier League standings with overall/home/away table and\n        last five games form. Results24.co.uk provides ", 'attrs': []}
+{'tag': 'b', 'data': 'Football England / Premier League results and 2000+ other\n        competitions results.\n\n        ', 'attrs': []}
+{'tag': 'p', 'data': 'Copyright \xc2\xa9 2009-13 Results24.co.uk\n        ', 'attrs': [('class', 'copyright')]}
+{'tag': 'ul', 'data': '\n            ', 'attrs': [('class', 'footer-menu')]}
+{'tag': 'li', 'data': 'Terms\n            ', 'attrs': [('href', '/redirect/?url=/terms/')]}
+{'tag': 'li', 'data': 'Resources\n            ', 'attrs': [('href', '/resources/')]}
+{'tag': 'li', 'data': 'Advertise\n            ', 'attrs': [('href', '/redirect/?url=/advertise/')]}
+{'tag': 'li', 'data': 'Contact Us\n        \n    \n    ', 'attrs': [('href', '/redirect/?url=/contact/')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('class', 'shadow-left')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('class', 'shadow-right')]}
+{'tag': 'div', 'data': '\n        ', 'attrs': [('class', 'banner-right')]}
+{'tag': 'div', 'data': '\n        ', 'attrs': [('class', 'scrolling-banner-top-stop')]}
+{'tag': 'div', 'data': '\n            ', 'attrs': [('class', 'scrolling-banner-wrap'), ('style', 'left: 970px;')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'banner')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'adsenvelope adstextpad banx-right_zone_2'), ('id', 'lsadvert-zid-922'), ('style', 'width:202px !important;')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('style', 'height:670px !important')]}
+{'tag': 'div', 'data': '\n                            ', 'attrs': [('class', 'adscontent'), ('id', 'lsadvert-right_zone_2')]}
+{'tag': 'iframe', 'data': '\n                        \n                        ', 'attrs': [('id', 'lsadvert-zid-922-iframe'), ('name', 'banx-right_zone_2'), ('frameborder', '0'), ('scrolling', 'no'), ('style', 'width:202px; height:670px')]}
+{'tag': 'div', 'data': '\n                            ', 'attrs': [('class', 'adsgraphhori')]}
+{'tag': 'div', 'data': '\n                        \n                    \n                \n            \n            ', 'attrs': [('class', 'adsghori ath-en')]}
+{'tag': 'div', 'data': '\n                ', 'attrs': [('class', 'banner')]}
+{'tag': 'div', 'data': '\n                    ', 'attrs': [('class', 'adsenvelope adstextpad banx-right_zone_3'), ('id', 'lsadvert-zid-923'), ('style', 'width:160px !important;')]}
+{'tag': 'div', 'data': '\n                        ', 'attrs': [('style', 'height:600px !important')]}
+{'tag': 'div', 'data': '\n                            ', 'attrs': [('class', 'adscontent'), ('id', 'lsadvert-right_zone_3')]}
+{'tag': 'iframe', 'data': '\n                        \n                        ', 'attrs': [('id', 'lsadvert-zid-923-iframe'), ('name', 'banx-right_zone_3'), ('frameborder', '0'), ('scrolling', 'no'), ('style', 'width:160px; height:600px')]}
+{'tag': 'div', 'data': '\n                            ', 'attrs': [('class', 'adsgraphhori')]}
+{'tag': 'div', 'data': '\n                        \n                    \n                \n            \n        \n    \n    ', 'attrs': [('class', 'adsghori ath-en')]}
+{'tag': 'div', 'data': '\n        ', 'attrs': [('class', 'main-top-submenu')]}
+{'tag': 'ul', 'data': '\n            ', 'attrs': [('id', 'submenu')]}
+{'tag': 'li', 'data': 'Live Football Scores\n            ', 'attrs': [('class', 'active'), ('href', '/')]}
+{'tag': 'li', 'data': '|', 'attrs': []}
+{'tag': 'a', 'data': 'Live Streaming\n            ', 'attrs': [('href', '/football/live-streaming/')]}
+{'tag': 'li', 'data': '|', 'attrs': []}
+{'tag': 'a', 'data': 'Odds Comparison\n        \n    \n    ', 'attrs': [('href', '/football/odds-comparison/')]}
+{'tag': 'div', 'data': 'Top\n\n', 'attrs': [('id', 'scroll-to-top'), ('style', 'display: none;')]}
+{'tag': 'div', 'data': '\n', 'attrs': [('class', 'scrolling-banner-bottom-stop')]}
+{'tag': 'script', 'data': "\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-26033729-17']);\n    _gaq.push(['_trackPageview']);\n    _gaq.push(['_trackPageLoadTime']);\n    (function () {\n        var ga = document.createElement('script');\n        ga.type = 'text/javascript';\n        ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n        var s = document.getElementsByTagName('script')[0];\n        s.parentNode.insertBefore(ga, s);\n    })();\n\n", 'attrs': [('type', 'text/javascript')]}
+{'tag': 'script', 'data': '\n    // <![CDATA[\n    var banners = new BannerHandler([916, 917, 922, 923], [], ["content.livesportmedia.eu"], jQuery, "The background image is an advertisement.", clientStorage);\n\n    banners.addSetBackgroundCallback(function () {\n        jQuery("body").addClass(\'background-add-on\');\n\n        //Jestlize jsou jiz socialni ikonky vykresleny, odstranime je\n        jQuery(\'#social-button\').remove();\n    });\n\n    document.lsadvert_display = function () {\n        banners.display();\n    }\n    // ]]>\n\n', 'attrs': [('type', 'text/javascript'), ('defer', 'defer')]}
+{'tag': 'span', 'data': '\n', 'attrs': [('id', 'mlc-4ck3s9wd8c')]}
+{'tag': 'span', 'data': '\n\n\n', 'attrs': [('id', 'mlc-aks81bkdz')]}
+{'tag': 'div', 'data': '\n\n    ', 'attrs': [('id', 'tooltip-1'), ('class', 'tooltip'), ('style', 'display: none;')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('id', 'tooltip-1-lt'), ('class', 'tooltip-lt')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('id', 'tooltip-1-rt'), ('class', 'tooltip-rt')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('id', 'tooltip-1-lb'), ('class', 'tooltip-lb')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('id', 'tooltip-1-cb'), ('class', 'tooltip-cb')]}
+{'tag': 'div', 'data': '\n    ', 'attrs': [('id', 'tooltip-1-rb'), ('class', 'tooltip-rb')]}
+{'tag': 'div', 'data': '\n\n\n', 'attrs': [('id', 'tooltip-1-ct'), ('class', 'tooltip-ct')]}
+
+Process finished with exit code 0
+
+#######################################################################################################################
+
